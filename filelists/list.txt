@@ -1,0 +1,990 @@
+wavs/0001.wav|caritai paimeng appongenna hurupu’ lontara’.
+wavs/0002.wav|rekko purani riagguri passalenna appongenna hurupu’ lontara’e. 
+wavs/0003.wav|mamuarei sininna ana’ sikolae naullei.
+wavs/0004.wav|narekko ritangai appongenna, ada lontara’ ri basa ugi’e.
+wavs/0005.wav|polei ri duae ada.
+wavs/0006.wav|ianaritu raung bettuanna daung, nennia ta’ bettuanna lontara’. jaji raung ta’ bettuanna daung lontara’.
+wavs/0008.wav|bunge’na hurupu’ lontara’e eganna seppulo aruwa hurupu’. 
+wavs/0009.wav|naekkia mattamana agama sellengnge ri tana mangkasa', nennia ri tana ugi’. 
+wavs/0010.wav|datu’ ribandang salaseddi riwettue naellaui naritambai.
+wavs/0011.wav|seddi hurupu’ 'ha' namancaji seppulo asera hurupu’. saba’ ripasicoco’na pattellareng basa ara’.
+wavs/0013.wav|pakkegunae hurupu’ 'ha' rapanna hajji, harang na rilainnae toppa paimeng.
+wavs/0014.wav|nainappa hurupu’ lontara’ero.
+wavs/0015.wav|tappinrai asenna mancaji hurupu’ sulapa’ eppa’ walasuji.
+wavs/0016.wav|makkebettuangi sulapa’ eppa’.
+wavs/0017.wav|rekko ritangai pole ri bateta muki hurupu’ lontara’e.
+wavs/0018.wav|weddingi ripuada makkedda hurupu’ lontara’e.
+wavs/0019.wav|massulapa’ eppa’i bateta muki’i.
+wavs/0020.wav|ripammulai pole ri awa nappa menre’.
+wavs/0021.wav|na tappana maumpe’ na manipi’.
+wavs/0022.wav|lagu – laguna.
+wavs/0023.wav|teppu – teppuna.
+wavs/0024.wav|weddingi risseng passaleng pekkogi riaseng poneng, teppuna, ada' na pekkotogi atuatuna ri laleng ada ugi’e.
+wavs/0025.wav|ri aggurung madioloe, pura ipakatajanngi engkana dua pulo tellu hurupu’ lontara’.
+wavs/0026.wav|ri laleng basa ugi’e.
+wavs/0027.wav|iaregga ritella inang sure’. paimeng, engkato ritella ana’ sure’.
+wavs/0029.wav|jumellana lima, mappassuku ada' iaregga loroseng ada'.
+wavs/0030.wav|ana’ sure’ ianaritu.
+wavs/0031.wav|bola, bolla’, bolang, bongla, bonglang, bollang.
+wavs/0032.wav|bolo, bolo’, bollo, bonglo, bonglong, bo’lo, bo’long.
+wavs/0033.wav|bebe, be'bbe, bembe, bembe’, bebeng, bengbeng.
+wavs/0034.wav|engka to seddi ada' padai uki’na, hurupu’na, padatoi teppuna.
+wavs/0035.wav|naikkia teppada bettuanna ianaritu: ritella’ ada homonimeng.
+wavs/0036.wav|pannessai passalenna loroseng ada pong!
+wavs/0037.wav|pannessai tanra – tanrana loroseng ada pong!
+wavs/0038.wav|larini hasanuddin lao ri bone.
+wavs/0039.wav|malai uwae lawi’ ana kondae.
+wavs/0040.wav|balandae mitu panghiana’.
+wavs/0041.wav|ia manurung.
+wavs/0042.wav|manurung aleku.
+wavs/0043.wav|bolaero maloppo.
+wavs/0044.wav|dua kkaju manu’ manre nanre.
+wavs/0045.wav|ambo’ku’ paggalung.
+wavs/0046.wav|manrei nasi kuning la hamudding.
+wavs/0047.wav|anurena jamangngengi bolana.
+wavs/0048.wav|alena muto solangi alena.
+wavs/0049.wav|minungngi tua’ cenning la sade’.
+wavs/0050.wav|indokku’ pappasa’.
+wavs/0051.wav|naissengngi bettuwang sitongenna, attukke'na, akkegunangenna, sibawa najeppui akkatanna baca bacae.
+wavs/0052.wav|marruki’ sibawa napoada-adai baca-bacae.
+wavs/0053.wav|riwettu purana naccueri aggurungede, ana sikolae riparennuwangi mulle.
+wavs/0054.wav|napakatajangngi bettuwang sitongenna baca-bacae.
+wavs/0055.wav|marruki’ baca-baca.
+wavs/0056.wav|ripabbettuangngi makkedda seddie atu’ atu’ ada' padatoha uni – uninna puisie.
+wavs/0057.wav|ia tampu’e awatangeng mallinrung.
+wavs/0058.wav|mabiasa napoada adai sanroe akkatta mewai awatangenna anu tenritae.
+wavs/0059.wav|naiakkia sitongeng-tongenna baca-bacae ianaritu seddie paddoangeng nabaca seddie sanro.
+wavs/0060.wav|rilalenna baca-bacae seddi naribettuangi tassilampa’ ada', naia naparelluange.
+wavs/0061.wav|maega nakkegunang tau riolota’.
+wavs/0062.wav|ia riolo tomatowa ugitta’ maega pakkegunai baca-bacae, nasaba’ engka akkatta naddarai rilaleng akkatoana.
+wavs/0063.wav|rapanna indo’ botting, maega napahang riasengnge baca – baca, nasaba’ jama-jamanna ianaritu panggujui botting.
+wavs/0064.wav|tasseddie gau’engka maneng baca-bacana. rapangi maccemme botting, majjakka botting, mabbedaa botting, enrengetoppa paimeng engka maneng baca-bacana.
+wavs/0065.wav|rilalengna baca-bacae engka ada pangeru sibawa parentana.
+wavs/0066.wav|baca-bacae naparelluangngi akessingenna saddae sibawa akessingenna teppu teppuna.
+wavs/0067.wav|masseddipa teppuna baca-bacae.
+wavs/0068.wav|naia baca-bacae sukkupa nawedding ripahang bettuanna.
+wavs/0069.wav|rilalengna baca-bacae engkai mattentu lappa’ – lappa’ adana.
+wavs/0070.wav|baca baca maccemme botting.
+wavs/0071.wav|botting urane.
+wavs/0072.wav|botting makkunrai.
+wavs/0073.wav|i bagenda ali mappassili.
+wavs/0074.wav|i patimah mappasili.
+wavs/0075.wav|botting orane riaseng i aco.
+wavs/0076.wav|botting makkunrai riasengnge i acce.
+wavs/0077.wav|baraka laailaaha illalla.
+wavs/0078.wav|lumu’ kusampeang, cani’ kuserosang.
+wavs/0079.wav|golla ri babuamu uniakkengngi.
+wavs/0080.wav|cemmeko, botting oroane makkunrai.
+wavs/0081.wav|uwae pole ri mekka, jenne pole ri suruga.
+wavs/0082.wav|ilaleng risaliweng.
+wavs/0083.wav|baca – baca majjakka.
+wavs/0084.wav|kutantang cappa’ bulu’.
+wavs/0085.wav|mappessau nawa nawa.
+wavs/0086.wav|ia manengna tau makkitae.
+wavs/0087.wav|barakka nabi yusupu barakkamu.
+wavs/0088.wav|cahaya nabi yusupu cahayamu.
+wavs/0089.wav|kumpayakun.
+wavs/0090.wav|baca – baca mabbedda.
+wavs/0091.wav|bedda’ ri nabi yusupu upaenre ri rupanu.
+wavs/0092.wav|mumaccayai ri rupamu.
+wavs/0093.wav|mutudang sippada bidadari rilaleng suruga.
+wavs/0094.wav|dua ratu pituppulo wenni.
+wavs/0095.wav|purana tudang botting.
+wavs/0096.wav|ia manengna padamu turipancaji.
+wavs/0097.wav|ri allah taala.
+wavs/0098.wav|uwae a’ kuattekke.
+wavs/0099.wav|anging a’ kuakkalepu.
+wavs/0100.wav|api a’ kuaccayya.
+wavs/0101.wav|paddissengeng aga-agana tungke’ riruntu’ riwettu aggurunge?
+wavs/0102.wav|aga maelo ripogau riwettu purana maggurui aggurunge?
+wavs/0103.wav|poada marippe’i akkegunana baca-bacae!
+wavs/0104.wav|uki’i aga lise’na baca-bacana paccemme botting makkunraie!
+wavs/0105.wav|pakkatajanngi aga riaseng ada passelle!
+wavs/0106.wav|iya'.
+wavs/0107.wav|iko.
+wavs/0108.wav|idi’. 
+wavs/0109.wav|iya’ marruki’.
+wavs/0110.wav|aleku’ molli’i.
+wavs/0111.wav|idi’ malai.
+wavs/0112.wav|bolata’.
+wavs/0113.wav|jamatta’.
+wavs/0114.wav|aleta’.
+wavs/0115.wav|iko lao.
+wavs/0116.wav|iko malai.
+wavs/0117.wav|jokkani idi’.
+wavs/0118.wav|idi’na.
+wavs/0119.wav|idi’ lolongengngi.
+wavs/0120.wav|iko maneng parellu magguru!
+wavs/0121.wav|iko maneng jamai!
+wavs/0122.wav|alena malai?
+wavs/0123.wav|alena malai.
+wavs/0124.wav|ia maneng.
+wavs/0125.wav|assalamu alaikum.
+wavs/0126.wav|waalaikume mussalam.
+wavs/0127.wav|agatu kareba sanu’?
+wavs/0128.wav|kareba madeceng mua.
+wavs/0129.wav|tegaki’ maelo lao natemmaka kessinna pakeatta sanu’?
+wavs/0130.wav|maelokka lao mangolo ri katoro desae.
+wavs/0131.wav|aga memeng masalamu sanu, nalao ri katoro desae?
+wavs/0132.wav|we . . . mala aja samuteppa masseleng, de’tu ia maneng na lao ri katoro desae engka masalana.
+wavs/0133.wav|maelo ka lao mangurusu sure’ keterangang makkeddae engka usaha balu’ balu’ku.
+wavs/0134.wav|nasaba maeloki ri wereng bantuwang pole ri pamareta, ianaritu modala usaha.
+wavs/0135.wav|we . . . sanu addampengangka salapahakkatu bela.
+wavs/0136.wav|ebbu’ki rilalengna engka eppa’ iaregga lima tau.
+wavs/0137.wav|siala.
+wavs/0138.wav|bali pakkutanae engkae ri awa!
+wavs/0139.wav|pakatajangngi aga ri aseng ada passelle!
+wavs/0140.wav|uki’i rupa-rupanna ada passelle!
+wavs/0141.wav|uki’i tellu rapanna ada passelle watakkale ia tettong tungke’e!
+wavs/0142.wav|naissengngi rupa-rupana padae riolo engkae ri lalenna basa ugi’e.
+wavs/0143.wav|maggolo’.
+wavs/0144.wav|makkatenni.
+wavs/0145.wav|mala.
+wavs/0146.wav|mabbicara.
+wavs/0147.wav|maggalung.
+wavs/0148.wav|madduta.
+wavs/0149.wav|maelo’i joppa la rudding maggolo’ ri lapangangnge.
+wavs/0150.wav|iyyaro ana’na la beddu maccani mabbicara.
+wavs/0151.wav|maggalummi jamanna ambo’na la baco.
+wavs/0152.wav|amaurenami nasuro joppa madduta ri bone.
+wavs/0153.wav|pabbalu’.
+wavs/0154.wav|paddare’.
+wavs/0155.wav|parronda.
+wavs/0156.wav|passerring.
+wavs/0157.wav|pajjala.
+wavs/0158.wav|makurang pabballu’ ripasa’e nasaba’ bosi rajai.
+wavs/0159.wav|maega passerring addiddi nabalu’ sitti amina.
+wavs/0160.wav|tarala.
+wavs/0161.wav|takkatoro’.
+wavs/0162.wav|tabbukka.
+wavs/0163.wav|maega tarala balu’ lipa’na amina ri essoe.
+wavs/0164.wav|takkatoro’ batena majjama la rudding.
+wavs/0165.wav|siala'.
+wavs/0166.wav|sijanci.
+wavs/0167.wav|sibola.
+wavs/0168.wav|sipongenna matena tomatowanna simalagai waramparang mappada orane.
+wavs/0169.wav|ambo’ku naewa sitettongeng la hasang.
+wavs/0170.wav|poana’.
+wavs/0171.wav|riaseng.
+wavs/0172.wav|ribalu’.
+wavs/0173.wav|riuki’.
+wavs/0174.wav|maja’ tu taue narekko maelo’i riaseng.
+wavs/0175.wav|maega matu’ ribalu’ ripasa’e iyyae modele bajue.
+wavs/0176.wav|buana atikku’.
+wavs/0177.wav|ri tau masero ripuji nennia rapanna ana’ wekkangnge.
+wavs/0178.wav|mallila pararang.
+wavs/0179.wav|malampe lima.
+wavs/0180.wav|ripuadai ri tau napujie malai agaaganna taue iaregga tellolang.
+wavs/0181.wav|paramatai ri kampongnge.
+wavs/0182.wav|memmana mallapi’ daung.
+wavs/0183.wav|mallelu’ tedong. malasa anyarang’.
+wavs/0185.wav|ripuadai ri tau malasa naseng alena naekkia malleggemua manre.
+wavs/0186.wav|mappoji ballo llipa.
+wavs/0187.wav|ritikkengngi polisi la baso nasaba rilolongenngi nala tammappau motoro’na bali bolana nainappa lao nabalu’.
+wavs/0188.wav|tania motoromi bawang pura nala.
+wavs/0189.wav|siare- are aga aganna tau laingnge nala masobbu – sobbu.
+wavs/0190.wav|tempeddippa napinra sipa’na 'malampe’ limae ro'.
+wavs/0191.wav|maemuna ana’ seddi seddi.
+wavs/0192.wav|agi – agi naelori riturusi maneng ri duae tomatoanna.
+wavs/0193.wav|tellu taungngi mattajeng ana’ tomatoana maemuna.
+wavs/0194.wav|maemuna ana’ seddi’ – seddi pole ri duae to pajajianna.
+wavs/0195.wav|mau’ni ana’ seddi' – seddi’ tengengka nasisai indo ambo’na.
+wavs/0196.wav|nalani maemuna maggello tappana macca na makesitto ampe – ampena.
+wavs/0197.wav|naoki’i sibawa naelong toi elongngero.
+wavs/0198.wav|napannessai rupa – rupana elongnge!
+wavs/0199.wav|napakatajangi akkattanna elongnge!
+wavs/0200.wav|marruki’ elong.
+wavs/0201.wav|naelongngi elong purae nauki’.
+wavs/0202.wav|engka elong tadduai barisi’na ritungke’.
+wavs/0203.wav|engka elong tattellu barisi’na ritungke’.
+wavs/0204.wav|engka elong tareppa’ barisi’na ritungke’.
+wavs/0205.wav|engka elong tallima barisi’na ritungke’.
+wavs/0206.wav|engka elong tattarenneng barisi’na ritungke’.
+wavs/0207.wav|elong sikai – kai.
+wavs/0208.wav|elong poada – adae indo’ sure’.
+wavs/0209.wav|elong poada-adae asenna essoe.
+wavs/0210.wav|elong sibali.
+wavs/0211.wav|naiyya melo’e ripakatajang riyaggurungewe iyanaritu tawa masseddie.
+wavs/0212.wav|engkae riase’ iyanaritu ritanga’i pole rieganna barisi ritungke’.
+wavs/0213.wav|nigaro ana’.
+wavs/0214.wav|riakkelongeng.
+wavs/0215.wav|ripassirina bolana.
+wavs/0216.wav|tuwo ade’ta.
+wavs/0217.wav|ceddekka mate mutaro.
+wavs/0218.wav|nataro uddani.
+wavs/0219.wav|akkanre-anrena.
+wavs/0220.wav|tellono tassiduppa mata.
+wavs/0221.wav|takawing nawa-nawa.
+wavs/0222.wav|nasibetta cinna.
+wavs/0223.wav|naiyya musaro masena.
+wavs/0224.wav|ritengnga padang.
+wavs/0225.wav|ana’ masola-solae.
+wavs/0226.wav|pitu ana’ dara mabbaju cella.
+wavs/0227.wav|tajekko ri pammasareng.
+wavs/0228.wav|karaeng lolo ajaretta’.
+wavs/0229.wav|wedding narompa-rompai.
+wavs/0230.wav|pabbiyasae manre.
+wavs/0231.wav|kegani bela.
+wavs/0232.wav|ripasa’ makkunraie.
+wavs/0233.wav|nalaono mai.
+wavs/0234.wav|cedde’ki mate mutaro uddani nasaba’ engkamui mattenge pole.
+wavs/0235.wav|akkattanna elongnge riase’ iyanaritu?.
+wavs/0236.wav|cakkaruddu’ atinrono.
+wavs/0237.wav|narekko ritangnga’i pole ri egana barisina ri tungke’.
+wavs/0238.wav|duwa.
+wavs/0239.wav|tellu.
+wavs/0240.wav|eppa’.
+wavs/0241.wav|lima.
+wavs/0242.wav|duwa barisi’.
+wavs/0243.wav|pitu barisi’ riseddie.
+wavs/0244.wav|ceddepi tena walupai toripojiku.
+wavs/0245.wav|tuli maeloi siruntu.
+wavs/0246.wav|tegaki’ wedding wewa siruntu.
+wavs/0247.wav|aja’ gaga salaiwi jancinna.
+wavs/0248.wav|alena majjanci alena pasalai.
+wavs/0249.wav|pakatajang.
+wavs/0250.wav|pannessa.
+wavs/0251.wav|tudanna.
+wavs/0252.wav|tungke’ – tungke’.
+wavs/0253.wav|mabbaca kareba ugi’.
+wavs/0254.wav|naia ritella’ kareba ianaritu carita   pappakatajang passaleng kajajiang ri laleng wanua.
+wavs/0255.wav|karebae napalettu taue ri laleng sure’ kareba. paimeng ritella’ kareba ugi’ ianaritu kareba ribaca mappake basa daera ugi’.
+wavs/0256.wav|makkukkue karebae weddinni ibaca. iaregga irita ri lalenna media sosialae.
+wavs/0257.wav|ri laleng mabbaca kareba silaingengngi narekko mabbaca lalomi taue.
+wavs/0258.wav|engka siare’ – are’ passaleng parellu itanga’ madeceng. padato laona narekko mabbaca kareba ugi’ ianaritu.
+wavs/0259.wav|ipannessai saddae!
+wavs/0260.wav|pasiattai tururupae sibawa aga ibacae.
+wavs/0261.wav|pannessai teppuna.
+wavs/0262.wav|aja’ tamaega kedo.
+wavs/0263.wav|tururupae napannessa kareba ipalettue.
+wavs/0264.wav|bara’ matajangngi aggurungnge madeceng, narekko ri itai carana taue mabbaca kareba ri laleng pidio ri awa.
+wavs/0265.wav|nasaba’ taissenni cara mabbaca kareba ugi’ nennia pura taitai pidiona. madecenni narekko riagguruini mabbaca kareba.
+wavs/0266.wav|paratekenni mabbaca kareba ri abbacang kareba ugi’ engkae ri awa!
+wavs/0267.wav|seddi oto tere’ nomoro’ polisina depe arua enneng eppa’ eppa’ tabbale ri tuppuangnge.
+wavs/0268.wav|oto tere’ pallureng ase soro’i siaga eganna metere’. ri wettu denappa natabbale nageppatoi alliri lampue.
+wavs/0269.wav|engkato pammotoro’ ri munrinna oto tere’ pallureng ase nageppai ase. naritiwi’ magatti ri bola dokoe.
+wavs/0270.wav|bara’ matajangngi aggurungnge madeceng narekko taitai carana taue mabbaca kareba ri laleng pidio ri awa.
+wavs/0271.wav|arung mangkau’.
+wavs/0272.wav|ininnawa.
+wavs/0273.wav|malempu’.
+wavs/0274.wav|sunge’.
+wavs/0275.wav|pettu.
+wavs/0276.wav|sussa.
+wavs/0277.wav|ranaka.
+wavs/0278.wav|cai’.
+wavs/0279.wav|arung matasa’.
+wavs/0280.wav|ritella’.
+wavs/0281.wav|malempu’.
+wavs/0282.wav|sima’ pappakalebbi.
+wavs/0283.wav|akkattanna.
+wavs/0284.wav|mawatang.
+wavs/0285.wav|pajanengngi.
+wavs/0286.wav|Napoadai punnae carita makkeda, engka se'di kampong.
+wavs/0287.wav|naia kampong ero.
+wavs/0288.wav|de namanessa onronna.
+wavs/0289.wav|ri laleng kampong ero.
+wavs/0290.wav|engka tau makkala'bine.
+wavs/0291.wav|temmaka akkasiasingenna.
+wavs/0292.wav|naikia engka to tau sugi.
+wavs/0293.wav|tallanga-langga monro ri kampong ero.
+wavs/0294.wav|iaro tau sugi e.
+wavs/0295.wav|de naisengngi ri aseng appeddireng.
+wavs/0296.wav|onro linona.
+wavs/0297.wav|temmaka rita allebbi-lebbirenna.
+wavs/0298.wav|tungke-tungke esso.
+wavs/0299.wav|iare'ga naesso maraja.
+wavs/0300.wav|singi lokkana.
+wavs/0301.wav|jokka-jokka ri seuae onrong.
+wavs/0302.wav|massennang-sennang.
+wavs/0303.wav|tosugi ero, ana'na riaseng la tenri sau.
+wavs/0305.wav|naia tokasi-asi e.
+wavs/0306.wav|denre engkato ana'na. riasengnge la biu'.
+wavs/0308.wav|esso-esso ambo'na la biu', sitengnga mate. mala aju ri ale'.
+wavs/0311.wav|nainappa natiwirang.
+wavs/0312.wav|tosugi ero.
+wavs/0313.wav|naia tokasi-asi ero.
+wavs/0314.wav|de gaga makka naonroi.
+wavs/0315.wav|mellau tulung.
+wavs/0316.wav|sangadinna tau sugi ero.
+wavs/0317.wav|temmaka manrasa-rasana.
+wavs/0318.wav|tokasi-asi ero.
+wavs/0319.wav|bainena maddaretoi paimeng.
+wavs/0320.wav|naia ana'na.
+wavs/0321.wav|nataro bawangmi ri bola na.
+wavs/0322.wav|temmakkasoro, iarega angkangulung.
+wavs/0324.wav|massalimu care-care lekke.
+wavs/0325.wav|nasaba araja seuana.
+wavs/0326.wav|puang allah ta'ala.
+wavs/0327.wav|iaro lapong anana.
+wavs/0328.wav|ianaritu la biu'.
+wavs/0329.wav|maddising-dising mui.
+wavs/0330.wav|de nasokko anrena.
+wavs/0331.wav|sininna dalle'e.
+wavs/0332.wav|anu pole maneng ri puang allah ta'ala.
+wavs/0333.wav|nakkumuaro abbalae.
+wavs/0334.wav|pole komatu ri puang e.
+wavs/0335.wav|riwettu mabbuana warellena.
+wavs/0336.wav|sibawa mallise'na lamena.
+wavs/0337.wav|tappa pole.
+wavs/0338.wav|sapinna tosugie.
+wavs/0339.wav|manrei sinina werellena.
+wavs/0340.wav|naputane' na tokasiasie lao ri tosugie.
+wavs/0341.wav|naripobali tokasi-asie pole ri tosugie.
+wavs/0342.wav|maelo riuno.
+wavs/0343.wav|sibawa tea toi.
+wavs/0344.wav|melli aju annasunna.
+wavs/0345.wav|riwettu nangkalingana ro.
+wavs/0346.wav|adanna tosugie.
+wavs/0347.wav|pada nasappurui arona tokasi-asie.
+wavs/0348.wav|mallai bine.
+wavs/0349.wav|naellau mua ri puang allah ta'ala.
+wavs/0350.wav|tenna poro napatekengngi atinna.
+wavs/0351.wav|nappitangngi akkuasangenna puang allah ta'ala.
+wavs/0352.wav|matei ambo'na la biu' natenre' batu.
+wavs/0353.wav|riwettu matena ambo'na la biu'.
+wavs/0354.wav|mappakessi babua.
+wavs/0355.wav|nasaba degaga tau tiwi i ujuna lao ri kuburue.
+wavs/0356.wav|ma'dunu-dununi.
+wavs/0357.wav|wae matanna indo'na la biu'.
+wavs/0358.wav|mellau tulunni.
+wavs/0359.wav|lao ri tau monroe ri bolana to sugie.
+wavs/0360.wav|iyanaro.
+wavs/0361.wav|maggoppo-goppo.
+wavs/0362.wav|koniro ri awana.
+wavs/0363.wav|ritaro ambo'na la biu'.
+wavs/0364.wav|degaga nataroangngi.
+wavs/0365.wav|monroni la biu' sibawa indo'na.
+wavs/0366.wav|iamani jama-jamana mannampu ase.
+wavs/0367.wav|riareng toni benni ianaro sarona.
+wavs/0368.wav|naia anrena la biu'.
+wavs/0369.wav|sibawa indo'na.
+wavs/0370.wav|ianaritu benni na nasu.
+wavs/0371.wav|iatonaro ne'eburengngi peca ana'na.
+wavs/0372.wav|de'na riullei.
+wavs/0373.wav|caritai.
+wavs/0374.wav|appe'direnna.
+wavs/0375.wav|la biu' sibawa indo'na.
+wavs/0376.wav|naia la biu' teppake waju sibawa sulara.
+wavs/0377.wav|indo'na mallipa cakkaddae.
+wavs/0378.wav|de na'baju.
+wavs/0379.wav|nasaba.
+wavs/0380.wav|maruttung toni bola-bolana.
+wavs/0381.wav|lecceni ri seuse kalebbong.
+wavs/0382.wav|ri seuse batu.
+wavs/0383.wav|naiaro kalebbong e narekko wennini.
+wavs/0384.wav|deto naritutu babanna.
+wavs/0385.wav|seppulo lima taung laloe.
+wavs/0386.wav|malopponi la biu'.
+wavs/0387.wav|nasaba atinulurenna.
+wavs/0388.wav|maguru ri tau macca e.
+wavs/0389.wav|rilainna topa paimeng gangkanna.
+wavs/0390.wav|la biu' mancaji pandekara.
+wavs/0391.wav|sibawa ritau maega.
+wavs/0392.wav|naia tosugi e denre.
+wavs/0393.wav|nasaba arajang.
+wavs/0394.wav|seuana puang allah ta'ala.
+wavs/0395.wav|mancaji tokasi-asi.
+wavs/0396.wav|puppuni.
+wavs/0397.wav|mappakkoniro.
+wavs/0398.wav|caritana la biu'.
+wavs/0399.wav|Tau Malebo e’ mampu.
+wavs/0400.wav|Riolo engka seua arung paparenta. Ritellai petta mampu.
+wavs/0402.wav|Naiya wetu ero.
+wavs/0403.wav|weddingi riewa. 
+wavs/0404.wav|mabbicara olo kolo e.
+wavs/0405.wav|Rilalenna kampong ero.
+wavs/0406.wav|engka dua tau malabine.
+wavs/0407.wav|Naiya bainena.
+wavs/0408.wav|temmaka gello’na.
+wavs/0409.wav|De’gaga makkunrai cau gello’i.
+wavs/0410.wav|ri laleng parentana mampu.
+wavs/0411.wav|Naiya petta mampu.
+wavs/0412.wav|engka to.
+wavs/0413.wav|ana’na kalolo.
+wavs/0414.wav|temmaka gengke’na.
+wavs/0415.wav|Naseng taue kalolo campe’ga.
+wavs/0416.wav|Engkana seua wettu.
+wavs/0417.wav|ana karu ero laoi.
+wavs/0418.wav|mappabitte manu.
+wavs/0419.wav|ri awa bolana tau ero.
+wavs/0420.wav|Nasitujui mitai.
+wavs/0421.wav|ana dara gello ero.
+wavs/0422.wav|Riwettu naitanaro tappa polei patujunna.
+wavs/0423.wav|maelo’ puine I makkunrai ero.
+wavs/0424.wav|Ripoadai ritau maegae.
+wavs/0425.wav|makkedae iyaro makkunraie.
+wavs/0426.wav|tau engka lakkainna.
+wavs/0427.wav|Naiya wettu nangkalingana ro.
+wavs/0428.wav|Pappangajana tau maegae.
+wavs/0429.wav|De’na patujuna.
+wavs/0430.wav|Polei.
+wavs/0431.wav|Makkunrai gello ero.
+wavs/0432.wav|Naekkia.
+wavs/0433.wav|Maeloi.
+wavs/0434.wav|Makkare-arei.
+wavs/0435.wav|binena taue.
+wavs/0436.wav|Gangka’na nadapi.
+wavs/0437.wav|Tongeng makkare-arei.
+wavs/0438.wav|Bainena tauero denre.
+wavs/0439.wav|Engkana seua wenni.
+wavs/0440.wav|Nasitujuangi engkana.
+wavs/0441.wav|Lakkainna ri bolae.
+wavs/0442.wav|Naengka to ana karu ero.
+wavs/0443.wav|Riwettuero.
+wavs/0444.wav|Mattengai.
+wavs/0445.wav|Tennunna.
+wavs/0446.wav|Makkunrai to gello ero, na de’ nasanna-sanai.
+wavs/0449.wav|Tappa meddu ana caroppona.
+wavs/0450.wav|Makkitai no lao.
+wavs/0451.wav|Riawa engkai naita ana’na.
+wavs/0452.wav|Ari e.
+wavs/0453.wav|Mitauni no.
+wavs/0454.wav|Ri tanae.
+wavs/0455.wav|Nasaba engkai lakkainna.
+wavs/0456.wav|Ri laleng bola.
+wavs/0457.wav|Tappanasuro I asunna.
+wavs/0458.wav|Mattenrengi.
+wavs/0459.wav|ana coppona.
+wavs/0460.wav|De’ na maitta engka.
+wavs/0461.wav|Tongenna.
+wavs/0462.wav|Ana caroppona napenre.
+wavs/0463.wav|Riwettu nawerena.
+wavs/0464.wav|Ana caroppona ro.
+wavs/0465.wav|Mappoadai tau.
+wavs/0466.wav|Tennung igaro.
+wavs/0467.wav|Tau riawa bola.
+wavs/0468.wav|Mappoadai.
+wavs/0469.wav|Asu ero.
+wavs/0470.wav|Ana’na petta mampu.
+wavs/0471.wav|Maelo’I mewaki sita.
+wavs/0472.wav|Mapoadasi tau tennung ero.
+wavs/0473.wav|Aja’ mumarukka.
+wavs/0474.wav|Nasaba engkai lakkaiku.
+wavs/0475.wav|Telle’ppe’ munnaro.
+wavs/0476.wav|Bicaranna tappa pole billa e.
+wavs/0477.wav|Ritengnga essoe.
+wavs/0478.wav|Purairo tappa mancaji batu.
+wavs/0479.wav|Tau tennung ero sibawa asunna.
+wavs/0480.wav|Gangka’na mancaji.
+wavs/0481.wav|Batu.
+wavs/0482.wav|Maneng sinina.
+wavs/0483.wav|Lise’na kampong ero.
+wavs/0484.wav|Ianaro saba’na.
+wavs/0485.wav|Nariaseng.
+wavs/0486.wav|To malle’bi’e.
+wavs/0487.wav|Ri tampu.
+wavs/0488.wav|Araja e ri segeri.
+wavs/0489.wav|Ri olo engka seddi.
+wavs/0490.wav|wettu nade’ maneng napole.
+wavs/0491.wav|asena palae romae.
+wavs/0492.wav|rimakkuannaro.
+wavs/0493.wav|namapeddi maneng.
+wavs/0494.wav|tau e ri segeri.
+wavs/0495.wav|wettu yero.
+wavs/0496.wav|arung mapparenta.
+wavs/0497.wav|riasenge.
+wavs/0498.wav|pajung la tenri sessu petta tolau.
+wavs/0499.wav|ritellae.
+wavs/0500.wav|pajung laloe.
+wavs/0501.wav|Iyatonaro.
+wavs/0502.wav|arung pammula e.
+wavs/0503.wav|ri segeri.
+wavs/0504.wav|riseuwae wenni.
+wavs/0505.wav|engka tau.
+wavs/0506.wav|ri lisena saoraja e.
+wavs/0507.wav|iyanaritu.
+wavs/0508.wav|puang matoa.
+wavs/0509.wav|naiya ro puang matoa.
+wavs/0510.wav|naita engka.
+wavs/0511.wav|tau massurubeng.
+wavs/0512.wav|poangi makkeda.
+wavs/0513.wav|naengkalingana arunge.
+wavs/0514.wav|inipina puang matoa.
+wavs/0515.wav|nappadeppungenni.
+wavs/0516.wav|toaccana segeri.
+wavs/0517.wav|na singkeruang ni.
+wavs/0518.wav|makkeda.
+wavs/0519.wav|ri esso juma e.
+wavs/0520.wav|maelo lao.
+wavs/0521.wav|riala rakala.
+wavs/0522.wav|na nipi e puang matoa.
+wavs/0523.wav|nadapi ni wettu juma'.
+wavs/0524.wav|pada lao tongeng ni.
+wavs/0525.wav|passurona arung e.
+wavs/0526.wav|naiya makkewa na.
+wavs/0527.wav|bulu e ro denre.
+wavs/0528.wav|ripalecce rioloni.
+wavs/0529.wav|puang watoa.
+wavs/0530.wav|matteru menre.
+wavs/0531.wav|ri coppona bulu.
+wavs/0532.wav|engka tongeng na.
+wavs/0533.wav|naita rakala.
+wavs/0534.wav|ma’dede loga'-loga'na.
+wavs/0535.wav|pada naita maneng ni.
+wavs/0536.wav|tau maega e.
+wavs/0537.wav|matturusi’ni pada makka’ i.
+wavs/0538.wav|nainnapa napalecce’ ni, lao ri onro macakka e. pada mapparessani manengni tau maega e.
+wavs/0542.wav|mitai.
+wavs/0543.wav|nasaba iyaro.
+wavs/0544.wav|rakala e.
+wavs/0545.wav|de’gaga.
+wavs/0546.wav|aju nasipolo-polo.
+wavs/0547.wav|samanna rita.
+wavs/0548.wav|aju temmaka rajanna.
+wavs/0549.wav|riwinru.
+wavs/0550.wav|mancaji rakala.
+wavs/0551.wav|riwettu ritiwi’ na.
+wavs/0552.wav|rakala e ro.
+wavs/0553.wav|lao ri segeri.
+wavs/0554.wav|temmaka egana.
+wavs/0555.wav|tau duppa i.
+wavs/0556.wav|pada tettong.
+wavs/0557.wav|ri wiri na laleng e.
+wavs/0558.wav|napaddi na ri segeri.
+wavs/0559.wav|ripatulili.
+wavs/0560.wav|ri kampong ero.
+wavs/0561.wav|ripalecce.
+wavs/0562.wav|riolo I puang matoa.
+wavs/0563.wav|sibawa sinina bissu e.
+wavs/0564.wav|makkonutoro matulili’na.
+wavs/0565.wav|natappa pole.
+wavs/0566.wav|bosi loppo e.
+wavs/0567.wav|makkeddani 'puang matoa'.
+wavs/0568.wav|Iyana e tanrang maelo ni.
+wavs/0569.wav|pole ase' ri segeri.
+wavs/0570.wav|pura maneng ni.
+wavs/0571.wav|riatulili kampong e.
+wavs/0572.wav|ritiwi ni rakala e.
+wavs/0573.wav|lao ri seddi.
+wavs/0574.wav|bola loppo.
+wavs/0575.wav|bola tanre.
+wavs/0576.wav|iya ro bolae.
+wavs/0577.wav|engka gare.
+wavs/0578.wav|patappulo allirina.
+wavs/0579.wav|taseddi e alliri.
+wavs/0580.wav|temmaka rajanna.
+wavs/0581.wav|sibawa tette mettoi.
+wavs/0582.wav|mallebu.
+wavs/0583.wav|pada tosakka aju tuo e.
+wavs/0584.wav|naia ri lalengmpola.
+wavs/0585.wav|ri ebbu roangi.
+wavs/0586.wav|renring lawa tengga.
+wavs/0587.wav|engka tellu renring.
+wavs/0588.wav|lawa tengana.
+wavs/0589.wav|nasaba' iyaro bolae.
+wavs/0590.wav|pata lapi i.
+wavs/0591.wav|nappani engkato rakkeangna.
+wavs/0592.wav|koniro riaseng na.
+wavs/0593.wav|rilea e onronna.
+wavs/0594.wav|pakkakasa’na puang matoa.
+wavs/0595.wav|sibawa sinina calabai.
+wavs/0596.wav|naiya onronna rakala e.
+wavs/0597.wav|koi lateng kaminang.
+wavs/0598.wav|ri munri e.
+wavs/0599.wav|kotommiro puang matoa.
+wavs/0600.wav|Matinro.
+wavs/0601.wav|naia rakala ero.
+wavs/0602.wav|ritella tonni arajang e.
+wavs/0603.wav|ripadecengi onronna.
+wavs/0604.wav|riebbureng boco.
+wavs/0605.wav|pada toha tau biasa e.
+wavs/0606.wav|lateng maka dua e.
+wavs/0607.wav|pole ri munri.
+wavs/0608.wav|naonro i bissu.
+wavs/0609.wav|maccae ma’joge.
+wavs/0610.wav|naia lateng maka tellu e.
+wavs/0611.wav|naonro I calabai.
+wavs/0612.wav|nappa e magguru ma’joge.
+wavs/0613.wav|naia lateng monri saliweng e.
+wavs/0614.wav|ritaronge i tau pole we.
+wavs/0615.wav|riponcoki carita e.
+wavs/0616.wav|naiyaro arajang.
+wavs/0617.wav|iyanaritu rakala.
+wavs/0618.wav|ri lainna e toppa paimeng.
+wavs/0619.wav|Pakkakasa.
+wavs/0620.wav|pakkakasa sake.
+wavs/0621.wav|rupenna ripasu.
+wavs/0622.wav|narekko maebbuki.
+wavs/0623.wav|upacara-upacara palili.
+wavs/0624.wav|naiaro upacara palili e.
+wavs/0625.wav|ripogau e narekko.
+wavs/0626.wav|mangoloni bare’ e.
+wavs/0627.wav|riobbi’ni puang matoa.
+wavs/0628.wav|punggawana bissue.
+wavs/0629.wav|biasa metto riase' monro.
+wavs/0630.wav|ia makkokoe riasengi 'sanro sokko'.
+wavs/0631.wav|sanro e denre pattentu e.
+wavs/0632.wav|wettu maelona.
+wavs/0633.wav|mapamula joppa.
+wavs/0634.wav|upacara palili.
+wavs/0635.wav|biasana ritu pammulai.
+wavs/0636.wav|wenni asera.
+wavs/0637.wav|ompo’na keteng e.
+wavs/0638.wav|iyarega na asera.
+wavs/0639.wav|tellabu’na keteng e.
+wavs/0640.wav|narekko maelo ripano arajang e.
+wavs/0641.wav|sinina calabai e.
+wavs/0642.wav|ri laleng bola.
+wavs/0643.wav|mappuasa maengi. 
+wavs/0644.wav|tellu esso tellu penni.
+wavs/0645.wav|sibawa paimeng.
+wavs/0646.wav|de'tto wedding matinro.
+wavs/0647.wav|ria’doja i arajang e.
+wavs/0648.wav|tellu esso tellu penni ma’joge calabai e.
+wavs/0649.wav|sibawa de’nawedding rukka.
+wavs/0650.wav|patappulo calabai.
+wavs/0651.wav|rilalengna ajoge' naro.
+wavs/0652.wav|mappamulani ripano arajang e.
+wavs/0653.wav|ripalecce rioloni sanro e.
+wavs/0654.wav|iamuto riaseng puang matoa.
+wavs/0655.wav|mangoloni puang watoa.
+wavs/0656.wav|lao ri arajang e.
+wavs/0657.wav|nainnappa makkelong.
+wavs/0658.wav|riacoweri lao ri calabai e.
+wavs/0659.wav|ia maneng.
+wavs/0660.wav|elong pammula e.
+wavs/0661.wav|ianaritu elong pateddung.
+wavs/0662.wav|Ompa.
+wavs/0663.wav|ribali pole ricalabaie.
+wavs/0664.wav|Batari.
+wavs/0665.wav|madecenga I pada muangkalinga.
+wavs/0666.wav|elongna bissu.
+wavs/0667.wav|naseng i bicara.
+wavs/0668.wav|to rilangi ianaritu:
+wavs/0669.wav|elong pateddung araja.
+wavs/0670.wav|Denre.
+wavs/0671.wav|Malettu.
+wavs/0672.wav|malettu ri ale luwu.
+wavs/0673.wav|ri watang pare.
+wavs/0674.wav|elongna puang matoa denre.
+wavs/0675.wav|nappa ribali ini.
+wavs/0676.wav|pole patappulo e bissu ianaritu : nulettu ri tompo.
+wavs/0678.wav|Nalettu.
+wavs/0679.wav|Malettu.
+wavs/0680.wav|malettu ri tana.
+wavs/0681.wav|mulettu ri paritiwi.
+wavs/0682.wav|narekko purani.
+wavs/0683.wav|elong na bissu e.
+wavs/0684.wav|maega ero denre.
+wavs/0685.wav|nasompungsi paimeng.
+wavs/0686.wav|'puang matoa' ianaritu:
+wavs/0687.wav|mappakonniro elongna arajang e.
+wavs/0688.wav|narekko woto ni arajang e.
+wavs/0689.wav|ri pappoleni matoa segeri.
+wavs/0690.wav|sibawa puang matoa.
+wavs/0691.wav|mappamulai matoa segeri.
+wavs/0692.wav|majjoge sere-sere.
+wavs/0693.wav|mappakitau'-tau' rita. purairo mataru tappa risele ripuang matoa.
+wavs/0695.wav|naia puang matoa.
+wavs/0696.wav|majjoge sere-sere.
+wavs/0697.wav|naccueriwi elong ianaritu:
+wavs/0698.wav|makkatu e pada walena.
+wavs/0699.wav|elo’na puang matoa.
+wavs/0700.wav|ripakuli-kuli i.
+wavs/0701.wav|gangke’na.
+wavs/0702.wav|wekka tellu.
+wavs/0703.wav|purani elong na puang matoa.
+wavs/0704.wav|najeppuni makkeda e moto niro arajange.
+wavs/0705.wav|riebburenni sanreseng.
+wavs/0706.wav|maddepungeng manengni tau maega e.
+wavs/0707.wav|ianaritu palao rima e.
+wavs/0708.wav|padakka e.
+wavs/0709.wav|to mapparentae.
+wavs/0710.wav|pada lao maneng.
+wavs/0711.wav|mallempa uwae.
+wavs/0712.wav|puraniro ricemmeni arajang e.
+wavs/0713.wav|pole ri poang matoa.
+wavs/0714.wav|sinina tau maega ero.
+wavs/0715.wav|pada cemme manengni.
+wavs/0716.wav|riawa arajang ero.
+wavs/0717.wav|jaji nacemme i.
+wavs/0718.wav|wae cemme na arajang e.
+wavs/0719.wav|narekko purani cemme arajang e.
+wavs/0720.wav|ridoko ni daung utti.
+wavs/0721.wav|iaro daung utti e pole ri kampong takku.
+wavs/0722.wav|cempa e.
+wavs/0723.wav|na segeri.
+wavs/0724.wav|narekko purani ri doko arajang e.
+wavs/0725.wav|pada lao maneng ni mala.
+wavs/0726.wav|lau lalle.
+wavs/0727.wav|naseng tau e malekke lau lalle.
+wavs/0728.wav|naia riaseng e 'lau lalle'.
+wavs/0729.wav|ianaritu pong utti.
+wavs/0730.wav|riala lollong ure’.
+wavs/0731.wav|sibawa daunna.
+wavs/0732.wav|iyamaneng.
+wavs/0733.wav|naiyaro denre lau lalle e.
+wavs/0734.wav|anu napasadia memeng.
+wavs/0735.wav|kampong timporongeng.
+wavs/0736.wav|ianaritu seddi kampong ri segeri.
+wavs/0737.wav|pong utti e denre ro.
+wavs/0738.wav|rigattungi sibawa panasa matasa.
+wavs/0739.wav|tanrenna kira-kira sireppa.
+wavs/0740.wav|dua kaluku.
+wavs/0741.wav|engka pada paimeng payosona.
+wavs/0742.wav|ianaritu : tangke bu'bunge.
+wavs/0743.wav|Ota'.
+wavs/0744.wav|Telle'.
+wavs/0745.wav|pong mali-mali.
+wavs/0746.wav|sinina iamaneng e.
+wavs/0747.wav|riasi-asengi ko ripong utti e.
+wavs/0748.wav|ianaro riaseng pong utti lau lalle.
+wavs/0749.wav|Ianaritu denre lau lalle e.
+wavs/0750.wav|riebarokkongi seddi toma-toma.
+wavs/0751.wav|matoa laddeni umuruna.
+wavs/0752.wav|Sibawa malasa toi paimeng.
+wavs/0753.wav|natajeng mani ammatengenna.
+wavs/0754.wav|Lau lalle denre ripasideppe I arajang e.
+wavs/0755.wav|Purairo nakelonni puang matoa.
+wavs/0756.wav|nappa riaccoeri patappulo bissu.
+wavs/0757.wav|elong naro pada.
+wavs/0758.wav|elongna wettu riteddunna arajang e.
+wavs/0759.wav|Naekkia natabai elong melladoang ri senua. Sarekkuammengi aja narisessa lau lalle.
+wavs/0761.wav|rilaleng emaddenganna.
+wavs/0762.wav|Nappa leppena elongna puang matoa.
+wavs/0763.wav|tettonni matoa segeri.
+wavs/0764.wav|naredduni padanna natu'bangi lau lalle.
+wavs/0765.wav|Ianaritu riakalebaraki tau mate.
+wavs/0766.wav|sarekuammengi aja narisessa.
+wavs/0767.wav|rilaleng angadangenna.
+wavs/0768.wav|Nappa naelauto e ri dewata e.
+wavs/0769.wav|sarekkuammengi aja nanrei.
+wavs/0770.wav|uleng ase e.
+wavs/0771.wav|Ripalettei caritae.
+wavs/0772.wav|riwettu laona tau mala uwae.
+wavs/0773.wav|Naccoeri genrang.
+wavs/0774.wav|Gong.
+wavs/0775.wav|Ana becci.
+wavs/0776.wav|Lae-lae.
+wavs/0777.wav|bessi banronga.
+wavs/0778.wav|sinina pakkakasa anu toriolo.
+wavs/0779.wav|Engka toppa paimeng.
+wavs/0780.wav|pakkakasana rilainge ianaritu: dua piring tello, dua piring utti, dua piring wenno.
+wavs/0784.wav|berre patanrupa.
+wavs/0785.wav|berre ridi.
+wavs/0786.wav|berre cella.
+wavs/0787.wav|Sibawa.
+wavs/0788.wav|berre pute.
+wavs/0789.wav|wettu lettuna denrero risaloe.
+wavs/0790.wav|puang matoa napammula no ri salo’e.
+wavs/0791.wav|Mappamulai napano ajena.
+wavs/0792.wav|nappa nabage-bage piringero denre.
+wavs/0793.wav|Tassipiring-tasipiring napano kori saloe.
+wavs/0794.wav|Rilainae ripalisui denre.
+wavs/0795.wav|Tawana lau lalle.
+wavs/0796.wav|Riwettu matama ri uwae.
+wavs/0797.wav|to maegae de napettu uni genrange.
+wavs/0798.wav|Gong e.
+wavs/0799.wav|ana bacci e.
+wavs/0800.wav|rilainae toppa uni unie iamaneng.
+wavs/0801.wav|Pappa bajai ritiwi arajang e.
+wavs/0802.wav|matulili ri kamponge manguju.
+wavs/0803.wav|lao ri galung e.
+wavs/0804.wav|riwettu matulili naro denre sinina tau e.
+wavs/0805.wav|tettong e ri wiring laleng e.
+wavs/0806.wav|pada mattiwi maneng uwae.
+wavs/0807.wav|Narekko laloni tau maega.
+wavs/0808.wav|pada risirangi uwae.
+wavs/0809.wav|Narekko pura manengni natulili kampong e.
+wavs/0810.wav|mattuju manengsi lao ri pasa e.
+wavs/0811.wav|Kossiro ri pasa’ e.
+wavs/0812.wav|majoge bissu e.
+wavs/0813.wav|purai majoge.
+wavs/0814.wav|napppani pada lisu maneng.
+wavs/0815.wav|lao ri bolana arajang e.
+wavs/0816.wav|ianaritu bola najagae puang matoa.
+wavs/0817.wav|sibawa patappulo bissu.
+wavs/0818.wav|Mappakonniro caritana.
+wavs/0819.wav|arajange ri segeri.
+wavs/0820.wav|Ka.
+wavs/0821.wav|Ki.
+wavs/0822.wav|Ku.
+wavs/0823.wav|Ke.
+wavs/0824.wav|Ko.
+wavs/0825.wav|Ke’.
+wavs/0826.wav|Ga.
+wavs/0827.wav|Gi.
+wavs/0828.wav|Gu.
+wavs/0829.wav|Ge.
+wavs/0830.wav|Go.
+wavs/0831.wav|Ge’.
+wavs/0832.wav|Nga.
+wavs/0833.wav|Ngi.
+wavs/0834.wav|Ngu.
+wavs/0835.wav|Nge.
+wavs/0836.wav|Ngo. 
+wavs/0837.wav|Nge’.
+wavs/0838.wav|Ngka.
+wavs/0839.wav|Ngki.
+wavs/0840.wav|Ngku.
+wavs/0841.wav|Ngke.
+wavs/0842.wav|Ngko.
+wavs/0843.wav|Ngke’.
+wavs/0844.wav|Pa.
+wavs/0845.wav|Pi.
+wavs/0846.wav|Pu.
+wavs/0847.wav|Pe.
+wavs/0848.wav|Po.
+wavs/0849.wav|Pe’.
+wavs/0850.wav|Ba.
+wavs/0851.wav|Bi.
+wavs/0852.wav|Bu.
+wavs/0853.wav|Be.
+wavs/0854.wav|Bo.
+wavs/0855.wav|Be’.
+wavs/0856.wav|Ma.
+wavs/0857.wav|Mi.
+wavs/0858.wav|Mu.
+wavs/0859.wav|Me.
+wavs/0860.wav|Mo.
+wavs/0861.wav|Me’.
+wavs/0862.wav|Mpa.
+wavs/0863.wav|Mpi.
+wavs/0864.wav|Mpu. 
+wavs/0865.wav|Mpe.
+wavs/0866.wav|Mpo.
+wavs/0867.wav|Mpe’.
+wavs/0868.wav|Ta.
+wavs/0869.wav|Ti.
+wavs/0870.wav|Tu.
+wavs/0871.wav|Te.
+wavs/0872.wav|To.
+wavs/0873.wav|Te’.
+wavs/0874.wav|Da.
+wavs/0875.wav|Di. 
+wavs/0876.wav|Du.
+wavs/0877.wav|De.
+wavs/0878.wav|Do.
+wavs/0879.wav|De’.
+wavs/0880.wav|Na.
+wavs/0881.wav|Ni.
+wavs/0882.wav|Nu.
+wavs/0883.wav|Ne.
+wavs/0884.wav|No.
+wavs/0885.wav|Ne’.
+wavs/0886.wav|Nra.
+wavs/0887.wav|Nri.
+wavs/0888.wav|Nru.
+wavs/0889.wav|Nre.
+wavs/0890.wav|Nro.
+wavs/0891.wav|Nre’.
+wavs/0892.wav|Ca.
+wavs/0893.wav|Ci.
+wavs/0894.wav|Cu. 
+wavs/0895.wav|Ce.
+wavs/0896.wav|Co.
+wavs/0897.wav|Ce’.
+wavs/0898.wav|Ja.
+wavs/0899.wav|Ji.
+wavs/0900.wav|Ju.
+wavs/0901.wav|Je.
+wavs/0902.wav|Jo.
+wavs/0903.wav|Je’.
+wavs/0904.wav|Nya.
+wavs/0905.wav|Nyi.
+wavs/0906.wav|Nyu.
+wavs/0907.wav|Nye.
+wavs/0908.wav|Nyo.
+wavs/0909.wav|Nye’.
+wavs/0910.wav|Nca.
+wavs/0911.wav|Nci.
+wavs/0912.wav|Ncu.
+wavs/0913.wav|Nce.
+wavs/0914.wav|Nco.
+wavs/0915.wav|Nce’.
+wavs/0916.wav|Ya.
+wavs/0917.wav|Yi.
+wavs/0918.wav|Yu.
+wavs/0919.wav|Ye.
+wavs/0920.wav|Yo.
+wavs/0921.wav|Ye’.
+wavs/0922.wav|Ra.
+wavs/0923.wav|Ri.
+wavs/0924.wav|Ru.
+wavs/0925.wav|Re.
+wavs/0926.wav|Ro.
+wavs/0927.wav|Re’.
+wavs/0928.wav|La.
+wavs/0929.wav|Li.
+wavs/0930.wav|Lu.
+wavs/0931.wav|Le.
+wavs/0932.wav|Lo.
+wavs/0933.wav|Le’.
+wavs/0934.wav|Wa.
+wavs/0935.wav|Wi.
+wavs/0936.wav|Wu.
+wavs/0937.wav|We.
+wavs/0938.wav|Wo.
+wavs/0939.wav|We’.
+wavs/0940.wav|Sa.
+wavs/0941.wav|Si.
+wavs/0942.wav|Su.
+wavs/0943.wav|Se.
+wavs/0944.wav|So. 
+wavs/0945.wav|Se’.
+wavs/0946.wav|aa.
+wavs/0947.wav|ii.
+wavs/0948.wav|uu.
+wavs/0949.wav|ee.
+wavs/0950.wav|oo.
+wavs/0951.wav|e’.
+wavs/0952.wav|Ha.
+wavs/0953.wav|Hi.
+wavs/0954.wav|Hu.
+wavs/0955.wav|He.
+wavs/0956.wav|Ho.
+wavs/0957.wav|He’.
+wavs/0958.wav|Seddi.
+wavs/0959.wav|Dua.
+wavs/0960.wav|Tellu.
+wavs/0961.wav|Eppa.
+wavs/0962.wav|Lima.
+wavs/0963.wav|Enneng.
+wavs/0964.wav|Pitu.
+wavs/0965.wav|Arua.
+wavs/0966.wav|Asera.
+wavs/0967.wav|Seppulo.
+wavs/0968.wav|Seppulo seddi.
+wavs/0969.wav|Seppulo dua.
+wavs/0970.wav|Seppulo tellu.
+wavs/0971.wav|Seppulo eppa.
+wavs/0972.wav|Seppulo lima.
+wavs/0973.wav|Seppulo enneng.
+wavs/0974.wav|Seppulo pitu.
+wavs/0975.wav|Seppulo arua.
+wavs/0976.wav|Seppulo asera.
+wavs/0977.wav|Duappulo.
+wavs/0978.wav|Tellupulo.
+wavs/0979.wav|Eppappulo.
+wavs/0980.wav|Limappulo.
+wavs/0981.wav|Enneppulo.
+wavs/0982.wav|Pituppulo.
+wavs/0983.wav|Aruappulo.
+wavs/0984.wav|Aserappulo.
+wavs/0985.wav|Siratu’.
+wavs/0986.wav|Duratu’.
+wavs/0987.wav|Tellu ratu’.
+wavs/0988.wav|Eppadatu'.
+wavs/0989.wav|Limaratu'. 
+wavs/0990.wav|Ennengdatu'.
+wavs/0991.wav|Pituratu'.
+wavs/0992.wav|Aruadatu'.
+wavs/0993.wav|Aseradatu'.
+wavs/0994.wav|Sise'bbu.
+wavs/0995.wav|Duasse'bbu.
+wavs/0996.wav|Tellusse'bbu.
+wavs/0997.wav|Eppasse'bbu.
+wavs/0998.wav|Limasse'bbu.
+wavs/0999.wav|Ennesse'bbu.
+wavs/1000.wav|Pituse'bbu.
+wavs/1001.wav|Aruase'bbu.
+wavs/1002.wav|Aserase'bbu.
+wavs/1003.wav|Seppulose'bbu.
+wavs/1004.wav|Duappulose'bbu.
+wavs/1005.wav|Telluppulose'bbu.
+wavs/1006.wav|Eppapulose'bbu.
+wavs/1007.wav|Limappulose'bbu.
+wavs/1008.wav|Enneppulose'bbu.
+wavs/1009.wav|Pituppulose'bbu.
+wavs/1010.wav|Aruappulose'bbu.
+wavs/1011.wav|Aserappulose'bbu. Siratuse'bbu.
