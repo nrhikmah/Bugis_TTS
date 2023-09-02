@@ -81,8 +81,8 @@ def angka_ke_kata(angka):
 
     return "ᨔᨛᨊ ᨆᨒᨚᨄᨚ ᨊᨚᨆᨚᨑᨚᨊ"  # Angka lebih dari 1000 (untuk contoh ini)
 
-
-    def number_expand(kalimat):
+# Fungsi untuk mengubah angka menjadi kata dalam sebuah kalimat
+def number_expand(kalimat):
     kata_kalimat = kalimat.split()
     for i, kata in enumerate(kata_kalimat):
         if kata.isdigit():
