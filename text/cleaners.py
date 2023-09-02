@@ -15,6 +15,8 @@ hyperparameter. Some cleaners are English-specific. You'll typically want to use
 import re
 from unidecode import unidecode
 from .numbers import normalize_numbers
+from .bugis_number import number_expand
+from .bugis_aksara import lontara_to_latin, remove_one_char_before_vowel
 
 
 # Regular expression matching whitespace:
@@ -86,5 +88,15 @@ def english_cleaners(text):
   text = lowercase(text)
   text = expand_numbers(text)
   text = expand_abbreviations(text)
+  text = collapse_whitespace(text)
+  return text
+
+def bugis_cleaners(text):
+  '''Pipeline for lontara text, including number expansion.'''
+  text = number_expand(text)
+  text = text.translate(lontara_to_latin)
+  text = remove_one_char_before_vowel(text)
+  text = convert_to_ascii(text)
+  text = lowercase(text)
   text = collapse_whitespace(text)
   return text
