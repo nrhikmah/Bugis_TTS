@@ -2,7 +2,6 @@ wavs/1.wav|iga?
 wavs/2.wav|iga aseta?
 wavs/3.wav|siaga?
 wavs/4.wav|siaga elina otomu?
-wavs/5.wav|magai?
 wavs/6.wav|magai naule mabua anamu?
 wavs/7.wav|apamu lao sope?
 wavs/8.wav|siana muengka?
@@ -19,7 +18,6 @@ wavs/18.wav|mapetu ada.
 wavs/19.wav|masarapo.
 wavs/20.wav|mapanre teme.
 wavs/21.wav|mapaci.
-wavs/22.wav|bosara.
 wavs/23.wav|barongko.
 wavs/24.wav|bolu peca.
 wavs/25.wav|katiri sala.
@@ -34,10 +32,8 @@ wavs/33.wav|geme.
 wavs/34.wav|dauculi.
 wavs/35.wav|timu.
 wavs/36.wav|isi.
-wavs/37.wav|inge.
 wavs/38.wav|ngingi.
 wavs/39.wav|jari.
-wavs/40.wav|siku.
 wavs/41.wav|aleke.
 wavs/42.wav|aro.
 wavs/43.wav|bua ato weta.
@@ -57,7 +53,6 @@ wavs/56.wav|inci.
 wavs/57.wav|langi.
 wavs/58.wav|mata eso.
 wavs/59.wav|kete.
-wavs/60.wav|bincoi.
 wavs/61.wav|apu ato cinodo.
 wavs/62.wav|pitarau.
 wavs/63.wav|bosi.
@@ -113,11 +108,9 @@ wavs/112.wav|lemo kopasa.
 wavs/113.wav|pele.
 wavs/114.wav|pesi.
 wavs/115.wav|dau so.
-wavs/116.wav|lasuna cela.
 wavs/117.wav|lasuna pute.
 wavs/118.wav|lada.
 wavs/119.wav|lada gariti.
-wavs/120.wav|gola cela.
 wavs/121.wav|ceku.
 wavs/122.wav|lenga.
 wavs/123.wav|sene.
@@ -125,22 +118,18 @@ wavs/124.wav|selasa.
 wavs/125.wav|araba.
 wavs/126.wav|kamisi.
 wavs/127.wav|juma.
-wavs/128.wav|satu.
 wavs/129.wav|aha.
 wavs/130.wav|cela.
 wavs/131.wav|pute.
 wavs/132.wav|gau.
 wavs/133.wav|cabulo ato kudara.
 wavs/134.wav|bako ato lango lango.
-wavs/135.wav|sikola.
 wavs/136.wav|bolo ato loto.
 wavs/137.wav|ridi.
 wavs/138.wav|kamumu.
-wavs/139.wav|bolo kepu.
 wavs/140.wav|abu abu.
 wavs/141.wav|kodo kodo.
 wavs/142.wav|sedi.
-wavs/143.wav|dua.
 wavs/144.wav|telu.
 wavs/145.wav|epa.
 wavs/146.wav|lima.
@@ -148,7 +137,6 @@ wavs/147.wav|ene.
 wavs/148.wav|pitu.
 wavs/149.wav|arua.
 wavs/150.wav|asera.
-wavs/151.wav|sepulo.
 wavs/152.wav|magareta.
 wavs/153.wav|macati.
 wavs/154.wav|kepa.
@@ -173,16 +161,13 @@ wavs/172.wav|makojo.
 wavs/173.wav|matinro.
 wavs/174.wav|mabuka tange.
 wavs/175.wav|ceme ato madio.
-wavs/176.wav|manasu nanre.
 wavs/177.wav|moto ele.
 wavs/178.wav|manre ele.
 wavs/179.wav|minu.
 wavs/180.wav|manoto.
 wavs/181.wav|leu leu.
 wavs/182.wav|majama.
-wavs/183.wav|masikola.
 wavs/184.wav|masesa.
-wavs/185.wav|mabisa pene.
 wavs/186.wav|maguru.
 wavs/187.wav|manre weni.
 wavs/188.wav|macami.
@@ -193,7 +178,6 @@ wavs/192.wav|magoci tange.
 wavs/193.wav|mabisa motoro.
 wavs/194.wav|manasu bale.
 wavs/195.wav|manasu akaju.
-wavs/196.wav|maca.
 wavs/197.wav|madongo.
 wavs/198.wav|caleda.
 wavs/199.wav|mabeta.
@@ -220,16 +204,12 @@ wavs/219.wav|macapa.
 wavs/220.wav|magempu.
 wavs/221.wav|makacoa.
 wavs/222.wav|matenge.
-wavs/223.wav|mapere.
 wavs/224.wav|pabele.
 wavs/225.wav|pacaringe.
 wavs/226.wav|pateri.
-wavs/227.wav|iweni.
 wavs/228.wav|ona wenie.
 wavs/229.wav|baja.
-wavs/230.wav|sangadi.
 wavs/231.wav|tau riolo.
-wavs/232.wav|tau paime.
 wavs/233.wav|simigu.
 wavs/234.wav|siule.
 wavs/235.wav|pada riolo.
@@ -243,14 +223,12 @@ wavs/242.wav|ele.
 wavs/243.wav|tenga weni.
 wavs/244.wav|pupu eso.
 wavs/245.wav|nainapa.
-wavs/246.wav|maitani.
 wavs/247.wav|magati.
 wavs/248.wav|maperi peri.
 wavs/249.wav|tutu.
 wavs/250.wav|maseke lade.
 wavs/251.wav|degaga bua buana.
 wavs/252.wav|arenga cede.
-wavs/253.wav|cedemi.
 wavs/254.wav|pinrengeka cina.
 wavs/255.wav|engka elo uweli.
 wavs/256.wav|laoki mai.
@@ -266,12 +244,10 @@ wavs/265.wav|iga elo macoe.
 wavs/266.wav|acoe bawano.
 wavs/267.wav|mitauka mitai.
 wavs/268.wav|leu leuka.
-wavs/269.wav|mapedi mane aleku.
 wavs/270.wav|urutuni usapae.
 wavs/271.wav|masapa.
 wavs/272.wav|saparenga.
 wavs/273.wav|matupasi.
-wavs/274.wav|sapareka cewe.
 wavs/275.wav|pateru bawani.
 wavs/276.wav|depa urutui.
 wavs/277.wav|sabaraki.
@@ -279,13 +255,11 @@ wavs/278.wav|de ule perengi.
 wavs/279.wav|akiringeni mai.
 wavs/280.wav|aja mupediriwi.
 wavs/281.wav|liwe pelana.
-wavs/282.wav|napaka mabaju.
 wavs/283.wav|depa mulao?
 wavs/284.wav|letuni.
 wavs/285.wav|letuna bolaku.
 wavs/286.wav|atutuki.
 wavs/287.wav|aja majampaita.
-wavs/288.wav|engka decena.
 wavs/289.wav|laono matinro.
 wavs/290.wav|madoja tutuka.
 wavs/291.wav|otoko maele.
@@ -294,7 +268,6 @@ wavs/293.wav|de uwakita.
 wavs/294.wav|ita mui yolo.
 wavs/295.wav|alatoka.
 wavs/296.wav|ajana pale.
-wavs/297.wav|igasi elo.
 wavs/298.wav|musalaika.
 wavs/299.wav|wedi ga.
 wavs/300.wav|de nawedi.
@@ -316,7 +289,6 @@ wavs/315.wav|paria.
 wavs/316.wav|rebu.
 wavs/317.wav|toge.
 wavs/318.wav|bodo bodo.
-wavs/319.wav|bote.
 wavs/320.wav|labace.
 wavs/321.wav|engkasie dua pulo telu ase ogina olo koloe.
 wavs/322.wav|manu.
@@ -325,7 +297,6 @@ wavs/324.wav|bebe.
 wavs/325.wav|anyara.
 wavs/326.wav|jonga.
 wavs/327.wav|tedo.
-wavs/328.wav|ceba ato lance.
 wavs/329.wav|banya.
 wavs/330.wav|iti.
 wavs/331.wav|dongi dongi.
@@ -336,18 +307,15 @@ wavs/335.wav|bale.
 wavs/336.wav|ula.
 wavs/337.wav|parara.
 wavs/338.wav|gaja.
-wavs/339.wav|cupa.
 wavs/340.wav|coke.
 wavs/341.wav|buaja.
 wavs/342.wav|cica.
 wavs/343.wav|cakarudu ladeka.
 wavs/344.wav|eloka matinro.
 wavs/345.wav|cakatinroka.
-wavs/346.wav|tania eloku.
 wavs/347.wav|mupinedingi muatu matu.
 wavs/348.wav|aja mukedo.
 wavs/349.wav|aja maruka.
-wavs/350.wav|mapedi isiku.
 wavs/351.wav|mapedi uluku.
 wavs/352.wav|eloka lao.
 wavs/353.wav|degaga idua.
@@ -356,7 +324,6 @@ wavs/355.wav|usalaiki.
 wavs/356.wav|onrono kutu.
 wavs/357.wav|eloka macoe.
 wavs/358.wav|ajana muacoe.
-wavs/359.wav|tabeko matu.
 wavs/360.wav|paguruka.
 wavs/361.wav|pekogi batemu.
 wavs/362.wav|asijacingeta.
@@ -364,7 +331,6 @@ wavs/363.wav|pabeleko.
 wavs/364.wav|de napakuatu.
 wavs/365.wav|mai upitako.
 wavs/366.wav|ubele beleiko.
-wavs/367.wav|de namatepe.
 wavs/368.wav|iga elo muteperi.
 wavs/369.wav|sobui.
 wavs/370.wav|idimi tuliwingera.
@@ -376,33 +342,26 @@ wavs/375.wav|engkana canri ta?
 wavs/376.wav|salai bawani!
 wavs/377.wav|iga puna yae?
 wavs/378.wav|magelo mua?
-wavs/379.wav|macako manasu?
 wavs/380.wav|aja muabele.
-wavs/381.wav|tongeka!
 wavs/382.wav|mabonga bongama.
 wavs/383.wav|aga elo muala.
 wavs/384.wav|de nasala.
 wavs/385.wav|iga makeda.
-wavs/386.wav|nule kapa.
 wavs/387.wav|muingera mupa?
 wavs/388.wav|de umatepe.
 wavs/389.wav|de mumalupu?
-wavs/390.wav|malupuka.
 wavs/391.wav|maitani de tosirutu.
 wavs/392.wav|eloka gare boti.
 wavs/393.wav|degaga harapa.
 wavs/394.wav|macinaka manre pao.
 wavs/395.wav|mabela mupa?
-wavs/396.wav|idina lao mai.
 wavs/397.wav|tadampengeka.
 wavs/398.wav|utarimani pabereta.
 wavs/399.wav|wise elomu.
 wavs/400.wav|ajana mupikiriki.
-wavs/401.wav|aja mumasara lade.
 wavs/402.wav|ilau doangeka.
 wavs/403.wav|tonapodo madece mua.
 wavs/404.wav|mapedi atika mutaro.
-wavs/405.wav|lemusa nyawamu.
 wavs/406.wav|engkana pale canrimu.
 wavs/407.wav|waseki matonge tonge.
 wavs/408.wav|depa.
@@ -410,13 +369,11 @@ wavs/409.wav|liwe tengemu.
 wavs/410.wav|iko bawana.
 wavs/411.wav|idi bawa.
 wavs/412.wav|malinru.
-wavs/413.wav|malale.
 wavs/414.wav|makeda memenga.
 wavs/415.wav|ulepako.
 wavs/416.wav|pajai bawani.
 wavs/417.wav|walupai.
 wavs/418.wav|wasengi.
-wavs/419.wav|de watungkai.
 wavs/420.wav|ajana mujampangi.
 wavs/421.wav|taro toi ha.
 wavs/422.wav|sukuni bateku mapoji.
@@ -426,27 +383,21 @@ wavs/425.wav|papojiku rialemu.
 wavs/426.wav|aruane na makunrai.
 wavs/427.wav|matu pasi.
 wavs/428.wav|de usirutu.
-wavs/429.wav|sirutuka.
 wavs/430.wav|tegangarei nataro.
 wavs/431.wav|tau jange.
 wavs/432.wav|taliwe liwe.
 wavs/433.wav|elo pua.
-wavs/434.wav|aga mupikiriki.
 wavs/435.wav|monro ale ale.
 wavs/436.wav|letu makokoe.
 wavs/437.wav|depa nengka ulisu.
 wavs/438.wav|malao lisu.
-wavs/439.wav|mupadua papojiku.
 wavs/440.wav|riolo mataku.
-wavs/441.wav|aja mubata bata.
 wavs/442.wav|sipungena.
-wavs/443.wav|bepa aga.
 wavs/444.wav|maga tasedi.
 wavs/445.wav|maceni mua?
 wavs/446.wav|de namaceni.
 wavs/447.wav|degaga sirina.
 wavs/448.wav|masirika sedi.
-wavs/449.wav|purani wilau.
 wavs/450.wav|masempo.
 wavs/451.wav|pura maneni.
 wavs/452.wav|wala toki ga?
@@ -467,7 +418,6 @@ wavs/466.wav|de muelo.
 wavs/467.wav|degaga jampangika.
 wavs/468.wav|eloka manre.
 wavs/469.wav|olika.
-wavs/470.wav|mawata ijama.
 wavs/471.wav|makura ceni.
 wavs/472.wav|mabolo ceni.
 wavs/473.wav|madekaka sedi.
@@ -484,7 +434,6 @@ wavs/483.wav|aja maita!
 wavs/484.wav|aga pareluta.
 wavs/485.wav|malupuka sedi.
 wavs/486.wav|talisuna.
-wavs/487.wav|tajopana.
 wavs/488.wav|jopa bawani.
 wavs/489.wav|lisu bawano!
 wavs/490.wav|elona lisu.
@@ -499,7 +448,6 @@ wavs/498.wav|aja mulari.
 wavs/499.wav|mabela.
 wavs/500.wav|makawe.
 wavs/501.wav|eloka ku idi.
-wavs/502.wav|mupediri atiku.
 wavs/503.wav|macawe mua.
 wavs/504.wav|teaka tarimako.
 wavs/505.wav|purani manre?
@@ -525,7 +473,6 @@ wavs/524.wav|manre eso.
 wavs/525.wav|manre weni.
 wavs/526.wav|meloka makaluru.
 wavs/527.wav|de uwisengi.
-wavs/528.wav|meloka lao pasae.
 wavs/529.wav|meloka lao ku galunge.
 wavs/530.wav|maguruka maruki.
 wavs/531.wav|manasu bale.
@@ -533,10 +480,8 @@ wavs/532.wav|bosiwi.
 wavs/533.wav|cakatinro.
 wavs/534.wav|garetapa irita.
 wavs/535.wav|matinro.
-wavs/536.wav|manre.
 wavs/537.wav|maruki.
 wavs/538.wav|mabaca.
-wavs/539.wav|manoto.
 wavs/540.wav|magabara.
 wavs/541.wav|ceme, ato madio.
 wavs/542.wav|mapepaci.
@@ -550,7 +495,6 @@ wavs/549.wav|mabolo.
 wavs/550.wav|manasu.
 wavs/551.wav|maguru.
 wavs/552.wav|makelo.
-wavs/553.wav|mapadece.
 wavs/554.wav|mangatara.
 wavs/555.wav|masempe.
 wavs/556.wav|makateni.
@@ -573,14 +517,12 @@ wavs/572.wav|kutega?
 wavs/573.wav|tegaki?
 wavs/574.wav|magai?
 wavs/575.wav|magani?
-wavs/576.wav|iga aseta?
 wavs/577.wav|napana?
 wavs/578.wav|siaga?
 wavs/579.wav|tegaki pole?
 wavs/580.wav|tegaki melo lao?
 wavs/581.wav|aga tajama?
 wavs/582.wav|purani ga?
-wavs/583.wav|purani manre?
 wavs/584.wav|magae?
 wavs/585.wav|tete siaga?
 wavs/586.wav|magai natea?
@@ -634,7 +576,6 @@ wavs/633.wav|madike.
 wavs/634.wav|pada.
 wavs/635.wav|panasa.
 wavs/636.wav|cope.
-wavs/637.wav|pao.
 wavs/638.wav|kadodo.
 wavs/639.wav|lese.
 wavs/640.wav|uti, ato loka.
@@ -646,7 +587,6 @@ wavs/645.wav|sarikaja.
 wavs/646.wav|kaluku.
 wavs/647.wav|hadise.
 wavs/648.wav|kaliki.
-wavs/649.wav|rabuta.
 wavs/650.wav|belibi.
 wavs/651.wav|duria.
 wavs/652.wav|baka.
@@ -684,17 +624,10 @@ wavs/683.wav|nareko taebureka kopi, ajana tataroi gola, nareko mapai i usedi nap
 wavs/684.wav|maga carana melo ipalenye lasa golae ku idonesia, nareko peduduna maceni pada idi.
 wavs/685.wav|jepa mebu robo, jerema mebu oto, tapi idi mebu udani.
 wavs/686.wav|taroni mawata irutu minya kalukue, asale magampa mua urutu cawata.
-wavs/687.wav|madece taro ada.
 wavs/688.wav|matare cawile.
-wavs/689.wav|makareso alu.
-wavs/690.wav|na amporoi jamana.
 wavs/691.wav|monro dara.
-wavs/692.wav|matojo ati.
-wavs/693.wav|matinro manu manu.
-wavs/694.wav|makaka temakate.
 wavs/695.wav|malale kubungkae.
 wavs/696.wav|alosi ripolo dua.
-wavs/697.wav|toba nasu lada.
 wavs/698.wav|malila parara.
 wavs/699.wav|mapela tai manu.
 wavs/700.wav|mabere siku.
@@ -704,13 +637,10 @@ wavs/703.wav|maceni tebu.
 wavs/704.wav|sianre bale.
 wavs/705.wav|malampe lima.
 wavs/706.wav|mapoji balo lipa.
-wavs/707.wav|bila degaga bosina.
 wavs/708.wav|malasa anyara.
-wavs/709.wav|masedi rumpu api.
 wavs/710.wav|sanre riaju tabu.
 wavs/711.wav|ka,ga,nga,ngka.
 wavs/712.wav|pa,ba,ma,mpa.
-wavs/713.wav|ta,da,na,nra.
 wavs/714.wav|ca,ja,nya,nca.
 wavs/715.wav|ya,ra,la,wa.
 wavs/716.wav|sa,a,ha.
@@ -726,7 +656,6 @@ wavs/725.wav|mau maega pabisena, nabongo palopina teaka nalure.
 wavs/726.wav|naiya acae ripatopoki jeko, agati aliri nareko teai maredu mapoloi.
 wavs/727.wav|reba sipatoko, mali siparape, sirui menre tesirui no, malilu sipakainge maingepi mupaja.
 wavs/728.wav|pura babara sopeku, pura tangkisi goliku, ulebireni telenge na towalie.
-wavs/729.wav|de nalabu esoe ri tenga bitarae.
 wavs/730.wav|naia tau malempue manguru manai tau sugie.
 wavs/731.wav|balanca manemui waraparamu, abene manemui iyakiya aja mapalaowi modalamu sibawa bage labamu.
 wavs/732.wav|aja mumaelo nabeta taue makala ricapana letenge.
@@ -762,12 +691,10 @@ wavs/761.wav|pakegunae hurupu 'ha' rapana haji, hara na rilainae topa paime.
 wavs/762.wav|nainapa hurupu lotaraero.
 wavs/763.wav|tapinrai asena mancaji hutupu sulapa epa ncalasuji.
 wavs/764.wav|makebetuangi sulapa epa.
-wavs/765.wav|reko ritangai pole ri bateta muki hurupu lotarae.
 wavs/766.wav|wedingi ripuada makeda hurupu lotarae.
 wavs/767.wav|masulapa epai bateta mukii.
 wavs/768.wav|ripamulai pole ri awa napa menre.
 wavs/769.wav|na tapana maumpe na manipi.
-wavs/770.wav|lagu-laguna.
 wavs/771.wav|tepu-tepuna.
 wavs/772.wav|wedingi riise pasale pekogi riase pone, tepuna, adana pekotogi atuatuna ri lale ada ugie.
 wavs/773.wav|ri aguru madioloe, pura ipakatajangi engkana dua pulo telu hurupu lotara.
@@ -792,7 +719,6 @@ wavs/791.wav|dua kaju manu manre nanre.
 wavs/792.wav|aboku pagalu.
 wavs/793.wav|manrei nasi kuni la hamudi.
 wavs/794.wav|anurena jamangengi bolana.
-wavs/795.wav|alena muto solangi alena.
 wavs/796.wav|minungi tua ceni la sade.
 wavs/797.wav|idoku papasa.
 wavs/798.wav|naisengi betuwa sitongena, atukena, akegunangena, sibawa napojiwi akatana baca-bacae.
@@ -814,15 +740,12 @@ wavs/813.wav|baca-bacae napareluangi akesingena sadae sibawa akesingena tepu-tep
 wavs/814.wav|masedipa tepuna baca-bacae.
 wavs/815.wav|naia baca-bacae sukupa nawedi ripaha betuana.
 wavs/816.wav|lalena baca-bacae engkai matetu lapa-lapa adana.
-wavs/817.wav|baca-baca maceme boti.
 wavs/818.wav|boti urane.
 wavs/819.wav|boti makunrai.
 wavs/820.wav|i bageda ali mapasili.
-wavs/821.wav|i patima mapasili.
 wavs/822.wav|boti oroane riase i aco.
 wavs/823.wav|boti makunrai riasee iace.
 wavs/824.wav|baraka lailaha ilala.
-wavs/825.wav|lumu kusampea, cani kuserosa.
 wavs/826.wav|gola ri babuamu uniakengi.
 wavs/827.wav|cemeko boti oroane makunrai.
 wavs/828.wav|uwae pole ri meka, jene pole ri suruga.
@@ -843,17 +766,13 @@ wavs/842.wav|purana tuda boti.
 wavs/843.wav|ia manena padamu turipancaji.
 wavs/844.wav|ri ala taala.
 wavs/845.wav|uwae a kuateke.
-wavs/846.wav|angi a kuakalepu.
 wavs/847.wav|api kuacaya.
 wavs/848.wav|padisenge aga-agana tungke rirutu riwetu agurunge?
-wavs/849.wav|aga maelo ripogau riwetu purana magurui agurunge?
 wavs/850.wav|poada maripei akegunana baca-bacae!
-wavs/851.wav|ukii aga lisena baca-bacana paceme boti makunraie!
 wavs/852.wav|pakatajangi aga riase ada pasele!
 wavs/853.wav|ia.
 wavs/854.wav|iko.
 wavs/855.wav|idi.
-wavs/856.wav|ia maruki.
 wavs/857.wav|aleku molii.
 wavs/858.wav|idi malai.
 wavs/859.wav|bolata.
@@ -862,16 +781,13 @@ wavs/861.wav|aleta.
 wavs/862.wav|iko lao.
 wavs/863.wav|iko malai.
 wavs/864.wav|jokani idi.
-wavs/865.wav|idi na.
 wavs/866.wav|idi lolongengi.
 wavs/867.wav|iko mane parelu maguru!
 wavs/868.wav|iko mane jamai!
-wavs/869.wav|alena malai?
 wavs/870.wav|alena malai.
 wavs/871.wav|ia mame.
 wavs/872.wav|asalamu alaiku.
 wavs/873.wav|walaiku sala.
-wavs/874.wav|agatu kareba sanu?
 wavs/875.wav|kareba madece mua.
 wavs/876.wav|tegaki maelo lao natemaka kesina pakeata sanu?
 wavs/877.wav|maeloka lao magolo ri katoro desae.
@@ -885,8 +801,6 @@ wavs/884.wav|siala.
 wavs/885.wav|bali pakutanae engkae ri awa!
 wavs/886.wav|pakatajangi aga ri ase ada pasele!
 wavs/887.wav|ukii rupa-rupana ada pasele!
-wavs/888.wav|ukii telu rapana ada pasele watakale ia teto tungkee!
-wavs/889.wav|naisengi rupa-rupana padai riolo engkae ri lalena basa ugie.
 wavs/890.wav|magolo.
 wavs/891.wav|makateni.
 wavs/892.wav|mala.
@@ -917,18 +831,14 @@ wavs/916.wav|aboku naewa siteto la hasa.
 wavs/917.wav|poana.
 wavs/918.wav|riase.
 wavs/919.wav|ribalu.
-wavs/920.wav|riuki.
 wavs/921.wav|maja tu tauwe nareko maeloi riase.
 wavs/922.wav|maega matu ribalu ripasae iyae modele bajue.
 wavs/923.wav|buana atiku.
 wavs/924.wav|ri tau masero ripuji nenia rapana ana wakange.
 wavs/925.wav|malila parara.
 wavs/926.wav|malampe lima.
-wavs/927.wav|ripuadai ri tau napujie malai agaagana taue iyarega telola.
 wavs/928.wav|paramatai ri kamponge.
 wavs/929.wav|memana malapi dau.
-wavs/930.wav|malelu tedo. malasa anyara.
-wavs/931.wav|ripuadai ri tau malasa nase alena malegemua manre.
 wavs/932.wav|mapoji balo lipa.
 wavs/933.wav|ritikengi polisi la baso nasaba rilolongengi nala tamapau motorona bali bolana naniapa lao nabalu.
 wavs/934.wav|taniya motoromi bawa pura nala.
@@ -949,9 +859,7 @@ wavs/948.wav|engka elo tadua barisi na ritungke.
 wavs/949.wav|engka elo tatelu barisina ritungke.
 wavs/950.wav|engka elo tarepa barisina ritungke.
 wavs/951.wav|engka elo talima barisina ritungke.
-wavs/952.wav|engka elo tatarene barisina ritungke.
 wavs/953.wav|elo sikai-kai.
-wavs/954.wav|elo poada-adae ido sure.
 wavs/955.wav|elo poada-adae asena esoe.
 wavs/956.wav|elo sibali.
 wavs/957.wav|naiya meloe ripakataja riyagurungewe iyanaritu tawa masedie.
@@ -988,7 +896,6 @@ wavs/987.wav|lima.
 wavs/988.wav|diwa barisi.
 wavs/989.wav|pitu barisi risedie.
 wavs/990.wav|cedepi tena walupai toripojiku.
-wavs/991.wav|tuli maeloi sirutu.
 wavs/992.wav|tegaki wedi wewa sirutu.
 wavs/993.wav|aja gaga salaiwi jancina.
 wavs/994.wav|alena majanci alena pasalai.
@@ -996,18 +903,14 @@ wavs/995.wav|pakataja.
 wavs/996.wav|panesa.
 wavs/997.wav|tudana.
 wavs/998.wav|tungke-tungke.
-wavs/999.wav|mabaca kareba ugi.
 wavs/1000.wav|naiya ritela kareba iyanaritu carita papakataja pasale kajajia ri lale wanuwa.
 wavs/1001.wav|karebae napaletu taue ri lale sure kareba, paime ritela kareba ugi iyanaritu kareba ribaca mapake basa daera ugi.
 wavs/1002.wav|makukue karebae wedini ibaca, iyarega irita ri lalena media sosialae.
-wavs/1003.wav|ri lale mabaca kareba silaingengi nareko mabaca lalomi taue.
 wavs/1004.wav|engka siare-are pasele parelu itanga madece, padato laona nareko mabaca kareba ugi iyanaritu.
 wavs/1005.wav|ipanesai sadae.
 wavs/1006.wav|pasiatai tururupae sibawa aga ibacae.
-wavs/1007.wav|panesai tepuna!
 wavs/1008.wav|aja tamaega kedo.
 wavs/1009.wav|tururupae napanesa kareba ipaletue.
-wavs/1010.wav|bara matajangi agurunge madece, nareko ri itai carana taue mabaca kareba ri lale pidio ri awa.
 wavs/1011.wav|nasaba taiseni cara mabaca kareba ugi nenia pura taitai pidiona, madeceni nareko riaguruini mabaca kareba.
 wavs/1012.wav|paratekani mabaca kareba ri abaca kareba ugie engkae ri awa!
 wavs/1013.wav|sedi oto tere nomoro polisina depe aruwa ene epa epa tabale ri tupuwangenge.
@@ -1019,7 +922,6 @@ wavs/1018.wav|ininawa.
 wavs/1019.wav|malempu.
 wavs/1020.wav|sunge.
 wavs/1021.wav|petu.
-wavs/1022.wav|susa.
 wavs/1023.wav|ranaka.
 wavs/1024.wav|cai.
 wavs/1025.wav|aru matasa.
@@ -1035,20 +937,16 @@ wavs/1034.wav|de namanesa onrona.
 wavs/1035.wav|ri lale kampo ero.
 wavs/1036.wav|engka tau makalabine.
 wavs/1037.wav|temaka akasiasingena.
-wavs/1038.wav|naikiya engka to tau sugi.
 wavs/1039.wav|talaga-laga monro ri kampo ero.
 wavs/1040.wav|iaro tau sugi e.
 wavs/1041.wav|de naisengi ri ase apedire.
 wavs/1042.wav|onro linona.
 wavs/1043.wav|temaka rita alebi-lebirena.
-wavs/1044.wav|tungke-tungke eso.
-wavs/1045.wav|iarega naeso maraja.
 wavs/1046.wav|singi lokana.
 wavs/1047.wav|joka-joka ri seuae onro.
 wavs/1048.wav|masena- sena.
 wavs/1049.wav|tosugi ero, anana riase la tenri sau.
 wavs/1050.wav|naia to kasi-asi e.
-wavs/1051.wav|denre engkato anana. riase e la biu.
 wavs/1052.wav|eso-eso abona la biu, sitenga mate. mala aju ri ale.
 wavs/1053.wav|nainapa natiwira.
 wavs/1054.wav|tosugi ero.
@@ -1068,7 +966,6 @@ wavs/1067.wav|pua ala taala.
 wavs/1068.wav|iaro lapo anana.
 wavs/1069.wav|ianaritu la biu.
 wavs/1070.wav|madisi-disi mui.
-wavs/1071.wav|de nasoko anrena.
 wavs/1072.wav|sinina dalee.
 wavs/1073.wav|anu pole mane ri pua ala taala.
 wavs/1074.wav|nakumuaro abalae.
@@ -1108,7 +1005,6 @@ wavs/1107.wav|iamani jama-jamana manampu ase.
 wavs/1108.wav|riare toni beni ianaro sarona.
 wavs/1109.wav|naia anrena la biu.
 wavs/1110.wav|sibawa idona.
-wavs/1111.wav|ianaritu beni na nasu.
 wavs/1112.wav|iatonaro neburengi peca anana.
 wavs/1113.wav|dena riulei.
 wavs/1114.wav|caritai.
@@ -1120,10 +1016,7 @@ wavs/1119.wav|dena baju.
 wavs/1120.wav|nasaba.
 wavs/1121.wav|marutu toni bola-bolana.
 wavs/1122.wav|leceni ri seuse kalebo.
-wavs/1123.wav|ri seuse batu.
 wavs/1124.wav|naiaro kalebo e nareko wenini.
-wavs/1125.wav|deto naritutu babana.
-wavs/1126.wav|sepulo lima tau laloe.
 wavs/1127.wav|maloponi la biu.
 wavs/1128.wav|nasaba atinulurena.
 wavs/1129.wav|maguru ri tau maca e.
@@ -1132,7 +1025,6 @@ wavs/1131.wav|la biu mancaji padekara.
 wavs/1132.wav|sibawa ritau maega.
 wavs/1133.wav|naia tosugi e denre.
 wavs/1134.wav|nasaba araja.
-wavs/1135.wav|seuana pua ala taala.
 wavs/1136.wav|mancaji tokasi-asi.
 wavs/1137.wav|pupuni.
 wavs/1138.wav|mapakoniro.
@@ -1142,10 +1034,8 @@ wavs/1141.wav|riolo engka seua aru papareta. ritelai peta mampu.
 wavs/1142.wav|naia wetu ero.
 wavs/1143.wav|wedingi riewa.
 wavs/1144.wav|mabicara olo koloe.
-wavs/1145.wav|rilalena kampo ero.
 wavs/1146.wav|engka dua tau malabine.
 wavs/1147.wav|naia bainena.
-wavs/1148.wav|temaka gelona.
 wavs/1149.wav|degaga makunrai cau geloi.
 wavs/1150.wav|ri lale paretana mampu.
 wavs/1151.wav|naia peta mampu.
@@ -1155,21 +1045,17 @@ wavs/1154.wav|temaka gengkena.
 wavs/1155.wav|nase taue kalolo campega.
 wavs/1156.wav|engkana seua wetu.
 wavs/1157.wav|ana karu ero laoi.
-wavs/1158.wav|mapabite manu.
 wavs/1159.wav|ri awa bolana tau ero.
-wavs/1160.wav|nasitujui mitai.
 wavs/1161.wav|ana dara gelo ero.
 wavs/1162.wav|riwetu naitanaro tapa polei patujuna.
 wavs/1163.wav|maelo puine i makunrai ero.
 wavs/1164.wav|ripoadai ritau maegae.
-wavs/1165.wav|makedae iaro makunraie.
 wavs/1166.wav|tau engka lakaina.
 wavs/1167.wav|naia wetu nakalingana ro.
 wavs/1168.wav|papangajana tau maegae.
 wavs/1169.wav|dena patujuna.
 wavs/1170.wav|polei.
 wavs/1171.wav|makunrai gelo ero.
-wavs/1172.wav|naekia.
 wavs/1173.wav|maeloi.
 wavs/1174.wav|makare-arei.
 wavs/1175.wav|binena taue.
@@ -1206,7 +1092,6 @@ wavs/1205.wav|tau riawa bola.
 wavs/1206.wav|mapoadai.
 wavs/1207.wav|asu ero.
 wavs/1208.wav|anana peta mampu.
-wavs/1209.wav|maeloi mewaki sita.
 wavs/1210.wav|mapoadasi tau tenu ero.
 wavs/1211.wav|aja mumaruka.
 wavs/1212.wav|nasaba engkai lakaiku.
@@ -1230,7 +1115,6 @@ wavs/1229.wav|asena palae romae.
 wavs/1230.wav|rimakuanaro.
 wavs/1231.wav|namapedi mane.
 wavs/1232.wav|tau e ri segeri.
-wavs/1233.wav|wetu yero.
 wavs/1234.wav|aru mapareta.
 wavs/1235.wav|riasenge.
 wavs/1236.wav|paju la tenri sesu peta tolau.
@@ -1247,17 +1131,13 @@ wavs/1246.wav|pua matoa.
 wavs/1247.wav|naiya ro pua matoa.
 wavs/1248.wav|naita engka.
 wavs/1249.wav|tau masurube.
-wavs/1250.wav|poangi makeda.
 wavs/1251.wav|naengkalingana arunge.
 wavs/1252.wav|inipina pua matoa.
 wavs/1253.wav|napadepungeni.
 wavs/1254.wav|toacana segeri.
-wavs/1255.wav|na singkerua ni.
 wavs/1256.wav|makeda.
-wavs/1257.wav|ri eso juma e.
 wavs/1258.wav|maelo lao.
 wavs/1259.wav|riala rakala.
-wavs/1260.wav|na nipi e pua matoa.
 wavs/1261.wav|nadapi ni wetu juma.
 wavs/1262.wav|pada lao tonge ni.
 wavs/1263.wav|pasurona aru e.
@@ -1276,11 +1156,8 @@ wavs/1275.wav|maturusini pada maka i.
 wavs/1276.wav|nainapa napalece ni, lao ri onro macaka e. pada maparesani maneni tau maega e.
 wavs/1277.wav|mitai.
 wavs/1278.wav|nasaba iyaro.
-wavs/1279.wav|rakala e.
 wavs/1280.wav|degaga.
-wavs/1281.wav|aju nasipolo-polo.
 wavs/1282.wav|samana rita.
-wavs/1283.wav|aju temaka rajana.
 wavs/1284.wav|riwinru.
 wavs/1285.wav|mancaji rakala.
 wavs/1286.wav|riwetu ritiwi na.
@@ -1289,7 +1166,6 @@ wavs/1288.wav|lao ri segeri.
 wavs/1289.wav|temaka egana.
 wavs/1290.wav|tau dupa i.
 wavs/1291.wav|pada teto.
-wavs/1292.wav|ri wiri na lale e.
 wavs/1293.wav|napadi na risegeri.
 wavs/1294.wav|ripatulili.
 wavs/1295.wav|ri kampo ero.
@@ -1297,19 +1173,15 @@ wavs/1296.wav|ripalece.
 wavs/1297.wav|riolo i pua matoa.
 wavs/1298.wav|sibawa sinina bisu e.
 wavs/1299.wav|makonutoro matulilina.
-wavs/1300.wav|natapa pole.
 wavs/1301.wav|bosi lopo e.
 wavs/1302.wav|makeda ni 'pua matoa'.
 wavs/1303.wav|iyana e tanra maelo ni.
-wavs/1304.wav|pole ase ri segeri.
 wavs/1305.wav|pura mane ni.
 wavs/1306.wav|riatulili kampo e.
 wavs/1307.wav|ritiwi ni rakala e.
 wavs/1308.wav|lao ri sedi.
 wavs/1309.wav|bola lopo.
 wavs/1310.wav|bola tanre.
-wavs/1311.wav|iya ro bolae.
-wavs/1312.wav|engka gare.
 wavs/1313.wav|patapulo alirina.
 wavs/1314.wav|tasedi e aliri.
 wavs/1315.wav|temaka rajana.
@@ -1320,7 +1192,6 @@ wavs/1319.wav|naia ri lalempola.
 wavs/1320.wav|ri ebu roangi.
 wavs/1321.wav|renri lawa tenga.
 wavs/1322.wav|engka telu renri.
-wavs/1323.wav|lawa tengana.
 wavs/1324.wav|nasaba iyaro bolae.
 wavs/1325.wav|pata lapi i.
 wavs/1326.wav|napani engkato rakeana.
@@ -1337,8 +1208,6 @@ wavs/1336.wav|naia rakala ero.
 wavs/1337.wav|ritela toni araja e.
 wavs/1338.wav|ripadecengi onrona.
 wavs/1339.wav|riebure boco.
-wavs/1340.wav|pada toha tau biasa e.
-wavs/1341.wav|late maka dua e.
 wavs/1342.wav|pole ri munri.
 wavs/1343.wav|naonro i bisu.
 wavs/1344.wav|macae majoge.
@@ -1391,17 +1260,14 @@ wavs/1390.wav|mangoloni pua watoa.
 wavs/1391.wav|lao ri araja e.
 wavs/1392.wav|nainapa makelo.
 wavs/1393.wav|riacoweri lao ri calabai e.
-wavs/1394.wav|ia mane.
 wavs/1395.wav|elo pamula e.
 wavs/1396.wav|ianaritu elo patedu.
 wavs/1397.wav|ompa.
-wavs/1398.wav|ribali pole ricalabaie.
 wavs/1399.wav|batari.
 wavs/1400.wav|madecenga i pada muakalinga.
 wavs/1401.wav|elona bisu.
 wavs/1402.wav|nase i bicara.
 wavs/1403.wav|to ri langi ianaritu:
-wavs/1404.wav|elo patedu araja.
 wavs/1405.wav|denre.
 wavs/1406.wav|maletu.
 wavs/1407.wav|maletu ri ale luwu.
@@ -1412,7 +1278,6 @@ wavs/1411.wav|pole patapulo e bisu ianaritu : nuletu ri tompo.
 wavs/1412.wav|naletu.
 wavs/1413.wav|maletu.
 wavs/1414.wav|maletu ri tana.
-wavs/1415.wav|muletu ri paratiwi.
 wavs/1416.wav|nareko purani.
 wavs/1417.wav|elo na bisu e.
 wavs/1418.wav|maega ero denre.
@@ -1425,7 +1290,6 @@ wavs/1424.wav|sibawa pua matoa.
 wavs/1425.wav|mapamulai matoa segeri.
 wavs/1426.wav|majoge sere-sere.
 wavs/1427.wav|mapakitau-tau rita. purairo mataru tapa risele ripua matoa.
-wavs/1428.wav|naia pua matoa.
 wavs/1429.wav|majoge sere-sere.
 wavs/1430.wav|nacueriwi elo ianaritu:
 wavs/1431.wav|makatu e pada walena.
@@ -1447,8 +1311,6 @@ wavs/1446.wav|pole ri poa matoa.
 wavs/1447.wav|sinina tau maega ero.
 wavs/1448.wav|pada ceme maneni.
 wavs/1449.wav|riawa araja ero.
-wavs/1450.wav|jaji naceme i.
-wavs/1451.wav|wae ceme na araja e.
 wavs/1452.wav|nareko purani ceme araja e.
 wavs/1453.wav|ridoko ni dau uti.
 wavs/1454.wav|iaro dau uti e pole ri kampo taku.
@@ -1457,10 +1319,8 @@ wavs/1456.wav|na segeri.
 wavs/1457.wav|nareko purani ri doko araja e.
 wavs/1458.wav|pada lao mane ni mala.
 wavs/1459.wav|lau lale.
-wavs/1460.wav|nase tau e maleke lau lale.
 wavs/1461.wav|naia riase e 'lau lale'.
 wavs/1462.wav|ianaritu po uti.
-wavs/1463.wav|riala lolo ure.
 wavs/1464.wav|sibawa dauna.
 wavs/1465.wav|iyamane.
 wavs/1466.wav|naiyaro denre lau lale e.
@@ -1480,11 +1340,9 @@ wavs/1479.wav|sinina iamane e.
 wavs/1480.wav|riasi-asengi ko ripo uti e.
 wavs/1481.wav|ianaro riase po uti lau lale.
 wavs/1482.wav|ianaritu denre lau lale e.
-wavs/1483.wav|riebarokongi sedi toma-toma.
 wavs/1484.wav|matoa ladeni umuruna.
 wavs/1485.wav|sibawa malasa toi paime.
 wavs/1486.wav|nataje mani amatengena.
-wavs/1487.wav|lau lale denre ripasidepe i araja e.
 wavs/1488.wav|purairo nakeloni pua matoa.
 wavs/1489.wav|napa riacoeri patapulo bisu.
 wavs/1490.wav|elo naro pada.
@@ -1492,25 +1350,20 @@ wavs/1491.wav|elona wetu riteduna araja e.
 wavs/1492.wav|naekia natabai elo meladoa ri senua. sarekuamengi aja narisesa lau lale.
 wavs/1493.wav|rilale emadengana.
 wavs/1494.wav|napa lepena elona pua matoa.
-wavs/1495.wav|tetoni matoa segeri.
 wavs/1496.wav|nareduni padana natubangi lau lale.
 wavs/1497.wav|ianaritu riakalebaraki tau mate.
-wavs/1498.wav|sarekuamengi aja narisesa.
 wavs/1499.wav|rilale angadangena.
 wavs/1500.wav|napa naelauto e ri dewata e.
 wavs/1501.wav|sarekuamengi aja nanrei.
-wavs/1502.wav|ule ase e.
 wavs/1503.wav|ripaletei caritae.
 wavs/1504.wav|riwetu laona tau mala uwae.
 wavs/1505.wav|nacoeri genra.
 wavs/1506.wav|go.
 wavs/1507.wav|ana beci.
 wavs/1508.wav|lae-lae.
-wavs/1509.wav|besi banronga.
 wavs/1510.wav|sinina pakakasa anu toriolo.
 wavs/1511.wav|engka topa paime.
 wavs/1512.wav|pakakasana rilainge ianaritu: dua piri telo, dua piri uti, dua piri weno.
-wavs/1513.wav|bere patanrupa.
 wavs/1514.wav|bere ridi.
 wavs/1515.wav|bere cela.
 wavs/1516.wav|sibawa.
@@ -1518,13 +1371,10 @@ wavs/1517.wav|bere pute.
 wavs/1518.wav|wetu letuna denrero ri saloe.
 wavs/1519.wav|pua matoa napamula no ri saloe.
 wavs/1520.wav|mapamulai napano ajena.
-wavs/1521.wav|napa nabage-bage piringero denre.
 wavs/1522.wav|tasipiri, tasipiri napano kori saloe.
 wavs/1523.wav|rilainae ripalisui denre.
 wavs/1524.wav|tawana lau lale.
-wavs/1525.wav|riwetu matama ri uwae.
 wavs/1526.wav|to maegae de napetu uni genrange.
-wavs/1527.wav|go e.
 wavs/1528.wav|ana baci e.
 wavs/1529.wav|rilainae topa uni unie iamane.
 wavs/1530.wav|papa bajai ritiwi araja e.
@@ -1562,26 +1412,19 @@ wavs/1564.wav|nge.
 wavs/1565.wav|ngo.
 wavs/1566.wav|nge.
 wavs/1568.wav|ngki.
-wavs/1569.wav|ngku.
-wavs/1570.wav|ngke.
 wavs/1571.wav|ngko.
 wavs/1572.wav|ngke.
-wavs/1574.wav|pi.
 wavs/1575.wav|pu.
-wavs/1576.wav|pe.
 wavs/1577.wav|po.
 wavs/1578.wav|pe.
 wavs/1580.wav|bi.
-wavs/1581.wav|bu.
 wavs/1582.wav|be.
 wavs/1583.wav|bo.
 wavs/1584.wav|be.
 wavs/1586.wav|mi.
 wavs/1587.wav|mu.
-wavs/1588.wav|me.
 wavs/1589.wav|mo.
 wavs/1590.wav|me.
-wavs/1592.wav|mpi.
 wavs/1593.wav|mpu.
 wavs/1594.wav|mpe.
 wavs/1595.wav|mpo.
@@ -1596,7 +1439,6 @@ wavs/1605.wav|du.
 wavs/1606.wav|de.
 wavs/1607.wav|do.
 wavs/1608.wav|de.
-wavs/1610.wav|ni.
 wavs/1611.wav|nu.
 wavs/1612.wav|ne.
 wavs/1613.wav|no.
@@ -1609,7 +1451,6 @@ wavs/1620.wav|nre.
 wavs/1622.wav|ci.
 wavs/1623.wav|cu.
 wavs/1624.wav|ce.
-wavs/1625.wav|co.
 wavs/1626.wav|ce.
 wavs/1628.wav|ji.
 wavs/1629.wav|ju.
@@ -1632,26 +1473,21 @@ wavs/1648.wav|ye.
 wavs/1649.wav|yo.
 wavs/1650.wav|ye.
 wavs/1652.wav|ri.
-wavs/1653.wav|ru.
 wavs/1654.wav|re.
 wavs/1655.wav|ro.
 wavs/1656.wav|re.
 wavs/1658.wav|li.
 wavs/1659.wav|lu.
 wavs/1660.wav|le.
-wavs/1661.wav|lo.
 wavs/1662.wav|le.
 wavs/1664.wav|wi.
 wavs/1665.wav|wu.
 wavs/1666.wav|we.
 wavs/1667.wav|wo.
 wavs/1668.wav|we.
-wavs/1670.wav|si.
 wavs/1671.wav|su.
 wavs/1672.wav|se.
 wavs/1673.wav|so.
-wavs/1674.wav|se.
-wavs/1676.wav|i.
 wavs/1677.wav|u.
 wavs/1678.wav|e.
 wavs/1679.wav|o.
@@ -1659,7 +1495,6 @@ wavs/1680.wav|e.
 wavs/1682.wav|hi.
 wavs/1683.wav|hu.
 wavs/1684.wav|he.
-wavs/1685.wav|ho.
 wavs/1686.wav|he.
 wavs/1687.wav|sedi.
 wavs/1688.wav|dua.
@@ -1692,7 +1527,6 @@ wavs/1714.wav|siratu.
 wavs/1715.wav|duaratu.
 wavs/1716.wav|teluratu.
 wavs/1717.wav|epadatu.
-wavs/1718.wav|limaratu.
 wavs/1719.wav|enedatu.
 wavs/1720.wav|pituratu.
 wavs/1721.wav|aruadatu.
@@ -1708,7 +1542,6 @@ wavs/1730.wav|aruasebu.
 wavs/1731.wav|aserasebu.
 wavs/1732.wav|sepulosebu.
 wavs/1733.wav|duapulosebu.
-wavs/1734.wav|telupulosebu.
 wavs/1735.wav|epapulosebu.
 wavs/1736.wav|limapulosebu.
 wavs/1737.wav|enepulosebu.
@@ -1732,7 +1565,6 @@ wavs/1754.wav|purani mabaju?
 wavs/1755.wav|purani manre?
 wavs/1756.wav|magae na mate amuremu?
 wavs/1757.wav|magai natea matama?
-wavs/1758.wav|kejadia aga tu mai?
 wavs/1759.wav|meloki ka meli kadera?
 wavs/1760.wav|aga kareba?
 wavs/1761.wav|kareba agatu mai?
@@ -1740,7 +1572,6 @@ wavs/1762.wav|tonge muaka?
 wavs/1763.wav|siagani itana de nalisu?
 wavs/1764.wav|aga yatu mu tiwi?
 wavs/1765.wav|igaki ana?
-wavs/1766.wav|siagaki masusure?
 wavs/1767.wav|iga mucarita?
 wavs/1768.wav|dema muabele?
 wavs/1769.wav|aga iyae?
@@ -1754,7 +1585,6 @@ wavs/1776.wav|iga elo macoe?
 wavs/1777.wav|manoto ato matinro?
 wavs/1778.wav|iga musibawa?
 wavs/1779.wav|muise ka?
-wavs/1780.wav|taroi kutu!
 wavs/1781.wav|taro bawani!
 wavs/1782.wav|bacai kareba ugie engkae ri awa!
 wavs/1783.wav|lokani manre!
@@ -1770,7 +1600,6 @@ wavs/1792.wav|de watungkai masempe.
 wavs/1793.wav|kamina padatoha orane na makunrai.
 wavs/1794.wav|sarekuamengi gangkana malinru.
 wavs/1795.wav|mateba makutopa mapolo.
-wavs/1796.wav|narimakuanaro ku makutana!
 wavs/1797.wav|taro toi ha papojiku rialemu.
 wavs/1798.wav|malampe na matanre.
 wavs/1799.wav|maponco na mapance.
@@ -1794,33 +1623,26 @@ wavs/1816.wav|mame ri wiri tasi.
 wavs/1817.wav|makeceka nasaba maricaka.
 wavs/1818.wav|lutu lao langie.
 wavs/1819.wav|cora kete.
-wavs/1820.wav|cinodo ri ele kelee.
 wavs/1821.wav|pedi ati masese kale.
 wavs/1822.wav|adampengeka.
 wavs/1823.wav|eloka ceme napa lao pasae.
-wavs/1824.wav|eloka manasu nanre napa masesa. .
-wavs/1825.wav|eloka lao galunge tuda-tuda .
+wavs/1824.wav|eloka manasu nanre napa masesa.
 wavs/1826.wav|madekaka sedi pole mapulu gaba.
 wavs/1827.wav|matinro manu-manu i gapa.
-wavs/1828.wav|amina mabaca kora ko kamarae.
-wavs/1829.wav|magurui siti maruki.
 wavs/1830.wav|idoku manasu paleko iti.
 wavs/1831.wav|magabara meongi anriku.
 wavs/1832.wav|siloku minu-minu ripasae.
 wavs/1833.wav|aboku maparaka manu bangko.
 wavs/1834.wav|pati masesa baju ri saloe.
-wavs/1835.wav|mare maseri ri yolo bolae.
 wavs/1836.wav|lela materu maguru koribolae.
 wavs/1837.wav|majabe lade i siti.
 wavs/1838.wav|magamara irita lamide.
 wavs/1839.wav|lamapa makutu lao sikolae.
 wavs/1840.wav|masempo elina bale ri pasae.
-wavs/1841.wav|makece lade ri copo bulue.
 wavs/1842.wav|maega mupa tau kasi-asi ri kampoku.
 wavs/1843.wav|maegani tau sugi ri kampoku.
 wavs/1844.wav|mabolo ceni yaro ana darae.
 wavs/1845.wav|manena lade ana na la bedu.
-wavs/1846.wav|maca lade anaku magabara.
 wavs/1847.wav|upoji lade mitai cawa-cawata.
 wavs/1848.wav|maduba-duba usedi nareko uwitaki mecawa.
 wavs/1849.wav|makaja lade modelena pakeata.
@@ -1831,12 +1653,9 @@ wavs/1853.wav|aleke sibawa aro.
 wavs/1854.wav|malila parara.
 wavs/1855.wav|mapela tai manu.
 wavs/1856.wav|mabere siku.
-wavs/1857.wav|malampe pabeke.
 wavs/1858.wav|maceni tebu.
 wavs/1859.wav|sianre bale.
 wavs/1860.wav|malampe lima.
-wavs/1861.wav|mapoji balo lipa.
-wavs/1862.wav|bila degaga bosina.
 wavs/1863.wav|malasa anyara.
 wavs/1864.wav|sanre riaju tabu.
 wavs/1865.wav|madece taro ada.
@@ -1860,11 +1679,9 @@ wavs/1882.wav|pakogi batemu? paguruka!
 wavs/1883.wav|mapedi isiku, aja mukedo!
 wavs/1884.wav|oto tere palure ase, soroi siaga egana metere. ri wetu tabale, nagepatopi aliri lampue.
 wavs/1885.wav|nako mapenre botiki, tiwiki bosara. puranaro laoni maparola sita baise.
-wavs/1886.wav|maseke lade! degaga bua-buana.
 wavs/1887.wav|pinrengeka cina doita, nasaba engka elo uweli, cedemi kasi.
 wavs/1888.wav|liwe upojita, meloka riidi. aja musalaika.
 wavs/1889.wav|madodo, makutu majama sibawa makutu manre. wase pengaru korona, terenyata, pengaru udani lao ri idi.
-wavs/1890.wav|de maelo sisabe buku? iya mancaji buku aleketa, idi mancaji buku arusuku.
 wavs/1891.wav|iya liwe macaku lange. tapi de uisengi magi naule labu ri atita.
 wavs/1892.wav|nareko mebuki kopi, ajana taroi gola. nareko mapai usedi, uitami namaceni.
 wavs/1893.wav|pakogi carana ipalenye lasa golae ri idonesia? nako peduduna maceni mane pada idi.
@@ -1891,7 +1708,6 @@ wavs/1913.wav|matanre, mapance.
 wavs/1914.wav|ka, ga, nga, ngka.
 wavs/1915.wav|pa, ba, ma, mpa.
 wavs/1916.wav|ta, da, na, nra.
-wavs/1917.wav|ca, ja, nya, nca.
 wavs/1918.wav|ya, ra, la, wa.
 wavs/1919.wav|sa, a, ha.
 wavs/1920.wav|ka, ki, ku, ke, ko, ke.
@@ -1914,7 +1730,6 @@ wavs/1936.wav|jita, aju ceni, cempa, lemo kapasa, pele.
 wavs/1937.wav|pesi, dau so, lasuna cela, lasuna pute, lada.
 wavs/1938.wav|lada gariti, gola cela, lenga.
 wavs/1939.wav|engka tau lange, engka pelu, engkato mawa.
-wavs/1940.wav|rici-rici, bosi, bosi lopo, bila, guturu.
 wavs/1941.wav|mata eso, momponi esoe, labuni eso.
 wavs/1942.wav|upojiki, uceceki.
 wavs/1943.wav|sitoto, sirutu, mudani.
@@ -1945,7 +1760,6 @@ wavs/1967.wav|magabara.
 wavs/1968.wav|mapalutu.
 wavs/1969.wav|masempu.
 wavs/1970.wav|mangatara.
-wavs/1971.wav|mangkateni.
 wavs/1972.wav|matiwi.
 wavs/1973.wav|minu.
 wavs/1974.wav|malulu.
@@ -1955,14 +1769,12 @@ wavs/1977.wav|mapatama.
 wavs/1978.wav|mangoli.
 wavs/1979.wav|cela.
 wavs/1980.wav|pute.
-wavs/1981.wav|gau.
 wavs/1982.wav|cabulo.
 wavs/1983.wav|lango-lango.
 wavs/1984.wav|sikola.
 wavs/1985.wav|loto.
 wavs/1986.wav|ridi.
 wavs/1987.wav|kamumu.
-wavs/1988.wav|abu-abu.
 wavs/1989.wav|kodo-kodo.
 wavs/1990.wav|aga kareba?
 wavs/1991.wav|kareba madece.
@@ -1972,15 +1784,11 @@ wavs/1994.wav|nareko idi, iga tosi aseta?
 wavs/1995.wav|nareko iya, labedu aseku.
 wavs/1996.wav|tegaki monro?
 wavs/1997.wav|ko jala cumi monro.
-wavs/1998.wav|aga jamata?
-wavs/1999.wav|makulia mupa.
 wavs/2000.wav|iga asena abota?
 wavs/2001.wav|labaha asena aboku.
 wavs/2002.wav|iga asena emamu?
 wavs/2003.wav|gia asena emaku.
-wavs/2004.wav|upoji iya makelo. makeloko gare.
 wavs/2005.wav|de uisengi makelo, maja sadaku.
-wavs/2006.wav|dirutuni isapae?
 wavs/2007.wav|depa urutui.
 wavs/2008.wav|matupasi ri sapai, lisuni dolo.
 wavs/2009.wav|depa mulao? liwe tengemu!
@@ -1991,11 +1799,8 @@ wavs/2013.wav|magani?
 wavs/2014.wav|masemeka, depa ule perengi.
 wavs/2015.wav|sabaraki, aja mupediri aleta.
 wavs/2016.wav|liwe pelana usedi.
-wavs/2017.wav|cakarudu ladeka, eloka matinro. mapedi uluku, malipunoka sedi.
-wavs/2018.wav|laono matinro.
 wavs/2019.wav|mule mua ka?
 wavs/2020.wav|mule mua. lokano tiro.
-wavs/2021.wav|eloka lao tapi, maja mesa tapaku. wedi ga?
 wavs/2022.wav|de nawedi, onrono kutu!
 wavs/2023.wav|eloka macoe!
 wavs/2024.wav|ajana mumacoe, tabeko matu.
@@ -2010,9 +1815,7 @@ wavs/2032.wav|cakatinroka.
 wavs/2033.wav|iya makutoro.
 wavs/2034.wav|de mumalupu?
 wavs/2035.wav|malupuka sedi.
-wavs/2036.wav|mapedi bua-buaku, eloka manre.
 wavs/2037.wav|macinaka manre pao.
-wavs/2038.wav|iga puna yae pao?
 wavs/2039.wav|maceni mua? alatoka!
 wavs/2040.wav|de namaceni.
 wavs/2041.wav|alasiko lainge!
@@ -2024,10 +1827,8 @@ wavs/2046.wav|maca mui manasu?
 wavs/2047.wav|depa.
 wavs/2048.wav|ai.. degaga harapa.
 wavs/2049.wav|aja mulari! joka bawani, macawe mua.
-wavs/2050.wav|posoka sedi!
 wavs/2051.wav|ada na gau, makeda memenga.
 wavs/2052.wav|elona lisu de.
-wavs/2053.wav|lisu bawani, atutuki mabela mupa.
 wavs/2054.wav|mabonga-bongama.
 wavs/2055.wav|madekaka sedi, ebure saika kopi!
 wavs/2056.wav|laoko meli gola! makura ceni sedi.
@@ -2049,9 +1850,7 @@ wavs/2071.wav|eloki lao tega? lepaki mai!
 wavs/2072.wav|engka ga tau? matupi iya ulao de.
 wavs/2073.wav|lepaki pae cina.
 wavs/2074.wav|idina lao mai.
-wavs/2075.wav|masirika sedi.
 wavs/2076.wav|aga elo muala? aga pareluta?
-wavs/2077.wav|bepa.
 wavs/2078.wav|bepa aga?
 wavs/2079.wav|bolu.
 wavs/2080.wav|igasi elo?
@@ -2059,23 +1858,17 @@ wavs/2081.wav|emaku.
 wavs/2082.wav|eloka ri idi!
 wavs/2083.wav|teaka tarimako! de upojiko!
 wavs/2084.wav|letu makokoe depa engka ulisu.
-wavs/2085.wav|aga mupikiri?
 wavs/2086.wav|sipungena mabalu, walupaini lisu.
 wavs/2087.wav|utarimani pabereta, purani wilau.
-wavs/2088.wav|ita mui dolo.
-wavs/2089.wav|dema nasala?
 wavs/2090.wav|dema nasala.
-wavs/2091.wav|wasengi maja muita.
 wavs/2092.wav|engka decena.
 wavs/2093.wav|iko musalaika!
 wavs/2094.wav|tania eloku salaiki, elona matoaku.
 wavs/2095.wav|wise mua elomu, musalai asijacingeta.
-wavs/2096.wav|mule kapa iko bawana maseri.
 wavs/2097.wav|iya mapadece.
 wavs/2098.wav|nareko teako risarompongi lipa. aja mutuda ri wiri lale.
 wavs/2099.wav|aju maluruemi riala parewa bola.
 wavs/2100.wav|reba sipatoko, mali siparape.
-wavs/2101.wav|de nalabu esoe ri tenga bitarae.
 wavs/2102.wav|naia tau malempue maguru manai tau sugie.
 wavs/2103.wav|agana ugaukengi, pakada temadapi nabuwa maceni.
 wavs/2104.wav|pamase toriole.
